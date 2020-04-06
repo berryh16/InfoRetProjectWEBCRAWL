@@ -1,0 +1,1427 @@
+<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+<a class="mw-jump-link" href="#p-search">Jump to search</a>
+<a href="/wiki/Computer_Sciences_Corporation" title="Computer Sciences Corporation">Computer Sciences Corporation</a>
+<a href="/wiki/Computational_science" title="Computational science">computational science</a>
+<a href="/wiki/Software_engineering" title="Software engineering">software engineering</a>
+<a href="/wiki/Programming_language_theory" title="Programming language theory"><img alt="large capital lambda" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lambda_lc.svg/144px-Lambda_lc.svg.png" decoding="async" width="144" height="144" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lambda_lc.svg/216px-Lambda_lc.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lambda_lc.svg/288px-Lambda_lc.svg.png 2x" data-file-width="375" data-file-height="375"></a>
+<a href="/wiki/Computational_complexity_theory" title="Computational complexity theory"><img alt="Plot of a quicksort algorithm" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sorting_quicksort_anim_frame.svg/144px-Sorting_quicksort_anim_frame.svg.png" decoding="async" width="144" height="109" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sorting_quicksort_anim_frame.svg/216px-Sorting_quicksort_anim_frame.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sorting_quicksort_anim_frame.svg/288px-Sorting_quicksort_anim_frame.svg.png 2x" data-file-width="283" data-file-height="215"></a>
+<a href="/wiki/Computer_graphics_(computer_science)" title="Computer graphics"><img alt="Utah teapot representing computer graphics" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Utah_teapot_simple_2.png/144px-Utah_teapot_simple_2.png" decoding="async" width="144" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Utah_teapot_simple_2.png/216px-Utah_teapot_simple_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Utah_teapot_simple_2.png/288px-Utah_teapot_simple_2.png 2x" data-file-width="2733" data-file-height="1809"></a>
+<a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction"><img alt="Microsoft Tastenmaus mouse representing human-computer interaction" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/144px-3-Tasten-Maus_Microsoft.jpg" decoding="async" width="144" height="126" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/216px-3-Tasten-Maus_Microsoft.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/288px-3-Tasten-Maus_Microsoft.jpg 2x" data-file-width="800" data-file-height="701"></a>
+<a href="/wiki/History_of_computer_science" title="History of computer science">History</a>
+<a href="/wiki/Outline_of_computer_science" title="Outline of computer science">Outline</a>
+<a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">Glossary</a>
+<a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a>
+<a href="/wiki/Template:TopicTOC-Computer_science" title="Template:TopicTOC-Computer science"><abbr title="View this template">v</abbr></a>
+<a href="/wiki/Template_talk:TopicTOC-Computer_science" title="Template talk:TopicTOC-Computer science"><abbr title="Discuss this template">t</abbr></a>
+<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:TopicTOC-Computer_science&amp;action=edit"><abbr title="Edit this template">e</abbr></a>
+<a href="/wiki/Process_(engineering)" title="Process (engineering)">processes</a>
+<a href="/wiki/Data" title="Data">data</a>
+<a href="/wiki/Computer_program" title="Computer program">programs</a>
+<a href="/wiki/Algorithm" title="Algorithm">algorithms</a>
+<a href="/wiki/Data_processing" title="Data processing">manipulate</a>
+<a href="/wiki/Data_storage" title="Data storage">store</a>
+<a href="/wiki/Communication" title="Communication">communicate</a>
+<a href="/wiki/Digital_data" title="Digital data">digital information</a>
+<a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>
+<a href="/wiki/Theory_of_computation" title="Theory of computation">theory of computation</a>
+<a href="/wiki/Software_design" title="Software design">design</a>
+<a href="/wiki/Software_system" title="Software system">software systems</a>
+<a href="#cite_note-1">[1]</a>
+<a href="/wiki/Practical_disciplines" class="mw-redirect" title="Practical disciplines">practical disciplines</a>
+<a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a>
+<a href="/wiki/Computer_graphics_(computer_science)" title="Computer graphics (computer science)">computer graphics</a>
+<a href="/wiki/Programming_language_theory" title="Programming language theory">Programming language theory</a>
+<a href="/wiki/Software_engineering" title="Software engineering">software engineering</a>
+<a href="/wiki/Programming_language" title="Programming language">programming languages</a>
+<a href="/wiki/Complex_systems" class="mw-redirect" title="Complex systems">complex systems</a>
+<a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer interaction</a>
+<a href="/wiki/Computer_accessibility" title="Computer accessibility">accessible</a>
+<a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<a href="#Etymology"><span class="tocnumber">2</span> <span class="toctext">Etymology</span></a>
+<a href="#Philosophy"><span class="tocnumber">3</span> <span class="toctext">Philosophy</span></a>
+<a href="#Fields"><span class="tocnumber">4</span> <span class="toctext">Fields</span></a>
+<a href="#Theoretical_computer_science"><span class="tocnumber">4.1</span> <span class="toctext">Theoretical computer science</span></a>
+<a href="#Data_structures_and_algorithms"><span class="tocnumber">4.1.1</span> <span class="toctext">Data structures and algorithms</span></a>
+<a href="#Theory_of_computation"><span class="tocnumber">4.1.2</span> <span class="toctext">Theory of computation</span></a>
+<a href="#Information_and_coding_theory"><span class="tocnumber">4.1.3</span> <span class="toctext">Information and coding theory</span></a>
+<a href="#Programming_language_theory"><span class="tocnumber">4.1.4</span> <span class="toctext">Programming language theory</span></a>
+<a href="#Formal_methods"><span class="tocnumber">4.1.5</span> <span class="toctext">Formal methods</span></a>
+<a href="#Computer_systems"><span class="tocnumber">4.2</span> <span class="toctext">Computer systems</span></a>
+<a href="#Computer_architecture_and_computer_engineering"><span class="tocnumber">4.2.1</span> <span class="toctext">Computer architecture and computer engineering</span></a>
+<a href="#Computer_performance_analysis"><span class="tocnumber">4.2.2</span> <span class="toctext">Computer performance analysis</span></a>
+<a href="#Concurrent,_parallel_and_distributed_systems"><span class="tocnumber">4.2.3</span> <span class="toctext">Concurrent, parallel and distributed systems</span></a>
+<a href="#Computer_networks"><span class="tocnumber">4.2.4</span> <span class="toctext">Computer networks</span></a>
+<a href="#Computer_security_and_cryptography"><span class="tocnumber">4.2.5</span> <span class="toctext">Computer security and cryptography</span></a>
+<a href="#Databases"><span class="tocnumber">4.2.6</span> <span class="toctext">Databases</span></a>
+<a href="#Computer_applications"><span class="tocnumber">4.3</span> <span class="toctext">Computer applications</span></a>
+<a href="#Computer_graphics_and_visualization"><span class="tocnumber">4.3.1</span> <span class="toctext">Computer graphics and visualization</span></a>
+<a href="#Human–computer_interaction"><span class="tocnumber">4.3.2</span> <span class="toctext">Human–computer interaction</span></a>
+<a href="#Scientific_computing_and_simulation"><span class="tocnumber">4.3.3</span> <span class="toctext">Scientific computing and simulation</span></a>
+<a href="#Artificial_intelligence"><span class="tocnumber">4.3.4</span> <span class="toctext">Artificial intelligence</span></a>
+<a href="#Software_engineering"><span class="tocnumber">4.4</span> <span class="toctext">Software engineering</span></a>
+<a href="#Discoveries"><span class="tocnumber">5</span> <span class="toctext">Discoveries</span></a>
+<a href="#Programming_paradigms"><span class="tocnumber">6</span> <span class="toctext">Programming paradigms</span></a>
+<a href="#Academia"><span class="tocnumber">7</span> <span class="toctext">Academia</span></a>
+<a href="#Education"><span class="tocnumber">8</span> <span class="toctext">Education</span></a>
+<a href="#Women_in_Computer_Science"><span class="tocnumber">8.1</span> <span class="toctext">Women in Computer Science</span></a>
+<a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a>
+<a href="#Notes"><span class="tocnumber">10</span> <span class="toctext">Notes</span></a>
+<a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a>
+<a href="#Further_reading"><span class="tocnumber">12</span> <span class="toctext">Further reading</span></a>
+<a href="#Overview"><span class="tocnumber">12.1</span> <span class="toctext">Overview</span></a>
+<a href="#Selected_literature"><span class="tocnumber">12.2</span> <span class="toctext">Selected literature</span></a>
+<a href="#Articles"><span class="tocnumber">12.3</span> <span class="toctext">Articles</span></a>
+<a href="#Curriculum_and_classification"><span class="tocnumber">12.4</span> <span class="toctext">Curriculum and classification</span></a>
+<a href="#External_links"><span class="tocnumber">13</span> <span class="toctext">External links</span></a>
+<a href="#Bibliography_and_academic_search_engines"><span class="tocnumber">13.1</span> <span class="toctext">Bibliography and academic search engines</span></a>
+<a href="#Professional_organizations"><span class="tocnumber">13.2</span> <span class="toctext">Professional organizations</span></a>
+<a href="#Misc"><span class="tocnumber">13.3</span> <span class="toctext">Misc</span></a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=1" title="Edit section: History">edit</a>
+<a href="/wiki/History_of_computer_science" title="History of computer science">History of computer science</a>
+<a href="/wiki/History_of_computing" title="History of computing">History of computing</a>
+<a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a>
+<a href="/wiki/History_of_computing_hardware" title="History of computing hardware">Hardware before 1960</a>
+<a href="/wiki/History_of_computing_hardware_(1960s%E2%80%93present)" title="History of computing hardware (1960s–present)">Hardware 1960s to present</a>
+<a href="/wiki/Software" title="Software">Software</a>
+<a href="/wiki/History_of_software" title="History of software">Software</a>
+<a href="/wiki/History_of_Unix" title="History of Unix">Unix</a>
+<a href="/wiki/History_of_free_and_open-source_software" title="History of free and open-source software">Free software and open-source software</a>
+<a href="/wiki/History_of_artificial_intelligence" title="History of artificial intelligence">Artificial intelligence</a>
+<a href="/wiki/History_of_compiler_construction" title="History of compiler construction">Compiler construction</a>
+<a href="/wiki/History_of_computer_science" title="History of computer science">Computer science</a>
+<a href="/wiki/History_of_operating_systems" title="History of operating systems">Operating systems</a>
+<a href="/wiki/History_of_programming_languages" title="History of programming languages">Programming languages</a>
+<a href="/wiki/List_of_pioneers_in_computer_science" title="List of pioneers in computer science">Prominent pioneers</a>
+<a href="/wiki/History_of_software_engineering" title="History of software engineering">Software engineering</a>
+<a href="/wiki/History_of_general-purpose_CPUs" title="History of general-purpose CPUs">General-purpose CPUs</a>
+<a href="/wiki/History_of_the_graphical_user_interface" title="History of the graphical user interface">Graphical user interface</a>
+<a href="/wiki/History_of_the_Internet" title="History of the Internet">Internet</a>
+<a href="/wiki/History_of_laptops" title="History of laptops">Laptops</a>
+<a href="/wiki/History_of_personal_computers" title="History of personal computers">Personal computers</a>
+<a href="/wiki/History_of_video_games" title="History of video games">Video games</a>
+<a href="/wiki/History_of_the_World_Wide_Web" title="History of the World Wide Web">World Wide Web</a>
+<a href="/wiki/History_of_computer_hardware_in_Bulgaria" title="History of computer hardware in Bulgaria">Bulgaria</a>
+<a href="/wiki/History_of_computing_in_Poland" title="History of computing in Poland">Poland</a>
+<a href="/wiki/History_of_computing_in_Romania" title="History of computing in Romania">Romania</a>
+<a href="/wiki/History_of_computer_hardware_in_Soviet_Bloc_countries" title="History of computer hardware in Soviet Bloc countries">Soviet Bloc</a>
+<a href="/wiki/History_of_computing_in_the_Soviet_Union" title="History of computing in the Soviet Union">Soviet Union</a>
+<a href="/wiki/History_of_computer_hardware_in_Yugoslavia" title="History of computer hardware in Yugoslavia">Yugoslavia</a>
+<a href="/wiki/Timeline_of_computing" title="Timeline of computing">Timeline of computing</a>
+<a href="/wiki/Timeline_of_computing_hardware_before_1950" title="Timeline of computing hardware before 1950">before 1950</a>
+<a href="/wiki/Timeline_of_computing_1950%E2%80%9379" class="mw-redirect" title="Timeline of computing 1950–79">1950–1979</a>
+<a href="/wiki/Timeline_of_computing_1980%E2%80%9389" class="mw-redirect" title="Timeline of computing 1980–89">1980–1989</a>
+<a href="/wiki/Timeline_of_computing_1990%E2%80%9399" class="mw-redirect" title="Timeline of computing 1990–99">1990–1999</a>
+<a href="/wiki/Timeline_of_computing_2000%E2%80%9309" class="mw-redirect" title="Timeline of computing 2000–09">2000–2009</a>
+<a href="/wiki/Timeline_of_computing_2010%E2%80%9319" class="mw-redirect" title="Timeline of computing 2010–19">2010–2019</a>
+<a href="/wiki/Category:Computing_timelines" title="Category:Computing timelines"><i>more timelines</i> ...</a>
+<a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">Glossary of computer science</a>
+<a href="/wiki/Category:History_of_computing" title="Category:History of computing">Category</a>
+<a href="/wiki/Template:History_of_computing" title="Template:History of computing"><abbr title="View this template">v</abbr></a>
+<a href="/wiki/Template_talk:History_of_computing" title="Template talk:History of computing"><abbr title="Discuss this template">t</abbr></a>
+<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:History_of_computing&amp;action=edit"><abbr title="Edit this template">e</abbr></a>
+<a href="/wiki/File:Babbage40.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Babbage40.png/170px-Babbage40.png" decoding="async" width="170" height="170" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Babbage40.png/255px-Babbage40.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Babbage40.png/340px-Babbage40.png 2x" data-file-width="385" data-file-height="385"></a>
+<a href="/wiki/File:Babbage40.png" class="internal" title="Enlarge"></a>
+<a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a>
+<a href="#cite_note-2">[2]</a>
+<a href="/wiki/File:Ada_lovelace.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/170px-Ada_lovelace.jpg" decoding="async" width="170" height="234" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/255px-Ada_lovelace.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ada_lovelace.jpg/340px-Ada_lovelace.jpg 2x" data-file-width="418" data-file-height="575"></a>
+<a href="/wiki/File:Ada_lovelace.jpg" class="internal" title="Enlarge"></a>
+<a href="/wiki/Ada_Lovelace" title="Ada Lovelace">Ada Lovelace</a>
+<a href="/wiki/Algorithm" title="Algorithm">algorithm</a>
+<a href="#cite_note-3">[3]</a>
+<a href="/wiki/Digital_computer" class="mw-redirect" title="Digital computer">digital computer</a>
+<a href="/wiki/Abacus" title="Abacus">abacus</a>
+<a href="/wiki/Algorithm" title="Algorithm">Algorithms</a>
+<a href="/wiki/Wilhelm_Schickard" title="Wilhelm Schickard">Wilhelm Schickard</a>
+<a href="/wiki/Mechanical_calculator" title="Mechanical calculator">mechanical calculator</a>
+<a href="#cite_note-4">[4]</a>
+<a href="/wiki/Gottfried_Leibniz" class="mw-redirect" title="Gottfried Leibniz">Gottfried Leibniz</a>
+<a href="/wiki/Stepped_Reckoner" class="mw-redirect" title="Stepped Reckoner">Stepped Reckoner</a>
+<a href="#cite_note-5">[5]</a>
+<a href="/wiki/Charles_Xavier_Thomas" title="Charles Xavier Thomas">Thomas de Colmar</a>
+<a href="/wiki/Mechanical_calculator" title="Mechanical calculator">mechanical calculator</a>
+<a href="#cite_note-6">[note 1]</a>
+<a href="/wiki/Arithmometer" title="Arithmometer">arithmometer</a>
+<a href="/wiki/Charles_Babbage" title="Charles Babbage">Charles Babbage</a>
+<a href="/wiki/Difference_Engine" class="mw-redirect" title="Difference Engine">Difference Engine</a>
+<a href="/wiki/Analytical_Engine" title="Analytical Engine">Analytical Engine</a>
+<a href="#cite_note-7">[6]</a>
+<a href="https://en.wiktionary.org/wiki/Special:Search/salient" class="extiw" title="wikt:Special:Search/salient">salient</a>
+<a href="#cite_note-Hyman1982-8">[7]</a>
+<a href="/wiki/Jacquard_loom" class="mw-redirect" title="Jacquard loom">Jacquard loom</a>
+<a href="#cite_note-Hyman1982-8">[7]</a>
+<a href="#cite_note-9">[note 2]</a>
+<a href="/wiki/Ada_Lovelace" title="Ada Lovelace">Ada Lovelace</a>
+<a href="/wiki/Bernoulli_number" title="Bernoulli number">Bernoulli numbers</a>
+<a href="#cite_note-10">[8]</a>
+<a href="/wiki/Herman_Hollerith" title="Herman Hollerith">Herman Hollerith</a>
+<a href="/wiki/Tabulating_machine" title="Tabulating machine">tabulator</a>
+<a href="/wiki/Punched_card" title="Punched card">punched cards</a>
+<a href="/wiki/IBM" title="IBM">IBM</a>
+<a href="/wiki/Percy_Ludgate" title="Percy Ludgate">Percy Ludgate</a>
+<a href="#cite_note-11">[9]</a>
+<a href="/wiki/Howard_H._Aiken" title="Howard H. Aiken">Howard Aiken</a>
+<a href="#cite_note-12">[10]</a>
+<a href="/wiki/Harvard_Mark_I" title="Harvard Mark I">ASCC/Harvard Mark I</a>
+<a href="#cite_note-13">[11]</a>
+<a href="/wiki/Computing" title="Computing">computing</a>
+<a href="/wiki/Atanasoff%E2%80%93Berry_computer" title="Atanasoff–Berry computer">Atanasoff–Berry computer</a>
+<a href="/wiki/ENIAC" title="ENIAC">ENIAC</a>
+<a href="#cite_note-14">[12]</a>
+<a href="/wiki/Computation" title="Computation">computation</a>
+<a href="/wiki/IBM" title="IBM">IBM</a>
+<a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a>
+<a href="/wiki/New_York_City" title="New York City">New York City</a>
+<a href="#cite_note-15">[13]</a>
+<a href="#cite_note-16">[14]</a>
+<a href="#cite_note-Denning_cs_discipline-17">[15]</a>
+<a href="#cite_note-18">[16]</a>
+<a href="/wiki/Cambridge_Diploma_in_Computer_Science" title="Cambridge Diploma in Computer Science">Cambridge Diploma in Computer Science</a>
+<a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>
+<a href="/wiki/Cambridge_Computer_Lab" class="mw-redirect" title="Cambridge Computer Lab">Computer Laboratory</a>
+<a href="/wiki/Purdue_University" title="Purdue University">Purdue University</a>
+<a href="#cite_note-19">[17]</a>
+<a href="#cite_note-Levy1984-20">[18]</a>
+<a href="#cite_note-Tedre2014-21">[19]</a>
+<a href="/wiki/IBM" title="IBM">IBM</a>
+<a href="#cite_note-22">[20]</a>
+<a href="#cite_note-23">[21]</a>
+<a href="#cite_note-Levy1984-20">[18]</a>
+<a href="#cite_note-Tedre2014-21">[19]</a>
+<a href="/wiki/Field-effect_transistor" title="Field-effect transistor">field-effect transistor</a>
+<a href="/wiki/Julius_Edgar_Lilienfeld" title="Julius Edgar Lilienfeld">Julius Edgar Lilienfeld</a>
+<a href="/wiki/John_Bardeen" title="John Bardeen">John Bardeen</a>
+<a href="/wiki/Walter_Brattain" class="mw-redirect" title="Walter Brattain">Walter Brattain</a>
+<a href="/wiki/William_Shockley" title="William Shockley">William Shockley</a>
+<a href="/wiki/Bell_Labs" title="Bell Labs">Bell Labs</a>
+<a href="/wiki/Transistor" title="Transistor">transistor</a>
+<a href="/wiki/Point-contact_transistor" title="Point-contact transistor">point-contact transistor</a>
+<a href="#cite_note-Lee-24">[22]</a>
+<a href="#cite_note-Puers-25">[23]</a>
+<a href="/wiki/University_of_Manchester" title="University of Manchester">University of Manchester</a>
+<a href="/wiki/Transistorized_computer" class="mw-redirect" title="Transistorized computer">transistorized computer</a>
+<a href="/wiki/Manchester_computers" title="Manchester computers">Transistor Computer</a>
+<a href="#cite_note-26">[24]</a>
+<a href="/wiki/Junction_transistor" class="mw-redirect" title="Junction transistor">junction transistors</a>
+<a href="#cite_note-Moskowitz-27">[25]</a>
+<a href="/wiki/MOSFET" title="MOSFET">metal–oxide–silicon field-effect transistor</a>
+<a href="/wiki/Mohamed_Atalla" class="mw-redirect" title="Mohamed Atalla">Mohamed Atalla</a>
+<a href="/wiki/Dawon_Kahng" title="Dawon Kahng">Dawon Kahng</a>
+<a href="#cite_note-computerhistory-28">[26]</a>
+<a href="#cite_note-Lojek-29">[27]</a>
+<a href="/wiki/MOSFET_scaling" class="mw-redirect" title="MOSFET scaling">miniaturised</a>
+<a href="/wiki/Moore%27s_law" title="Moore's law">mass-produced</a>
+<a href="#cite_note-Moskowitz-27">[25]</a>
+<a href="/wiki/Very_large-scale_integration" class="mw-redirect" title="Very large-scale integration">high-density</a>
+<a href="/wiki/Integrated_circuit" title="Integrated circuit">integrated circuit</a>
+<a href="#cite_note-computerhistory-transistor-30">[28]</a>
+<a href="#cite_note-Hittinger-31">[29]</a>
+<a href="/wiki/Computer_revolution" class="mw-redirect" title="Computer revolution">computer revolution</a>
+<a href="#cite_note-32">[30]</a>
+<a href="/wiki/Microcomputer_revolution" class="mw-redirect" title="Microcomputer revolution">microcomputer revolution</a>
+<a href="#cite_note-33">[31]</a>
+<a href="/wiki/Computing_technology" class="mw-redirect" title="Computing technology">computing technology</a>
+<a href="#cite_note-34">[32]</a>
+<a href="/wiki/Ubiquitous" class="mw-redirect" title="Ubiquitous">ubiquitous</a>
+<a href="/wiki/History_of_computing" title="History of computing">History of computing</a>
+<a href="/wiki/History_of_informatics" class="mw-redirect" title="History of informatics">History of informatics</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=2" title="Edit section: Etymology">edit</a>
+<a href="/wiki/Informatics#Etymology" title="Informatics">Informatics §&nbsp;Etymology</a>
+<a href="#cite_note-Tedre2014-21">[19]</a>
+<a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a>
+<a href="#cite_note-Fine_1959-35">[33]</a>
+<a href="/wiki/Harvard_Business_School" title="Harvard Business School">Harvard Business School</a>
+<a href="#cite_note-36">[34]</a>
+<a href="/wiki/Management_science" title="Management science">management science</a>
+<a href="#cite_note-Fine_1959-35">[33]</a>
+<a href="/wiki/Numerical_analysis" title="Numerical analysis">numerical analyst</a>
+<a href="/wiki/George_Forsythe" title="George Forsythe">George Forsythe</a>
+<a href="#cite_note-37">[35]</a>
+<a href="#cite_note-38">[36]</a>
+<a href="/wiki/Peter_Naur" title="Peter Naur">Peter Naur</a>
+<a href="#cite_note-39">[37]</a>
+<a href="/wiki/Data_science" title="Data science">data science</a>
+<a href="/wiki/Multi-disciplinary" class="mw-redirect" title="Multi-disciplinary">multi-disciplinary</a>
+<a href="/wiki/Epistemology" title="Epistemology">epistemologist</a>
+<a href="#cite_note-40">[38]</a>
+<a href="#cite_note-41">[39]</a>
+<a href="#cite_note-42">[40]</a>
+<a href="/wiki/Slavic_languages" title="Slavic languages">Slavic languages</a>
+<a href="/wiki/Hungarian_language" title="Hungarian language">Hungarian</a>
+<a href="/wiki/Greek_language" title="Greek language">Greek</a>
+<a href="#cite_note-43">[41]</a>
+<a href="/wiki/Informatics" title="Informatics">informatics</a>
+<a href="#cite_note-44">[42]</a>
+<a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger Dijkstra</a>
+<a href="#cite_note-45">[note 3]</a>
+<a href="/wiki/Computer_engineering" title="Computer engineering">computer engineering</a>
+<a href="/wiki/Computer_system" class="mw-redirect" title="Computer system">computer systems</a>
+<a href="/wiki/Information_system" title="Information system">information systems</a>
+<a href="/wiki/Cognitive_science" title="Cognitive science">cognitive science</a>
+<a href="/wiki/Computational_linguistics" title="Computational linguistics">linguistics</a>
+<a href="/wiki/Mathematics" title="Mathematics">mathematics</a>
+<a href="/wiki/Physics" title="Physics">physics</a>
+<a href="/wiki/Biology" title="Biology">biology</a>
+<a href="/wiki/Computational_statistics" title="Computational statistics">statistics</a>
+<a href="/wiki/Logic" title="Logic">logic</a>
+<a href="#cite_note-Denning_cs_discipline-17">[15]</a>
+<a href="/wiki/Kurt_G%C3%B6del" title="Kurt Gödel">Kurt Gödel</a>
+<a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>
+<a href="/wiki/John_von_Neumann" title="John von Neumann">John von Neumann</a>
+<a href="/wiki/R%C3%B3zsa_P%C3%A9ter" title="Rózsa Péter">Rózsa Péter</a>
+<a href="/wiki/Alonzo_Church" title="Alonzo Church">Alonzo Church</a>
+<a href="/wiki/Mathematical_logic" title="Mathematical logic">mathematical logic</a>
+<a href="/wiki/Category_theory" title="Category theory">category theory</a>
+<a href="/wiki/Domain_theory" title="Domain theory">domain theory</a>
+<a href="/wiki/Algebra" title="Algebra">algebra</a>
+<a href="#cite_note-Tedre2014-21">[19]</a>
+<a href="/wiki/Software_engineer#Use_of_the_title_&quot;Engineer&quot;" title="Software engineer">disputes</a>
+<a href="#cite_note-46">[43]</a>
+<a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a>
+<a href="#cite_note-47">[44]</a>
+<a href="/wiki/Computational_science" title="Computational science">computational science</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=3" title="Edit section: Philosophy">edit</a>
+<a href="/wiki/Philosophy_of_computer_science" title="Philosophy of computer science">Philosophy of computer science</a>
+<a href="/wiki/Peter_Wegner" title="Peter Wegner">Peter Wegner</a>
+<a href="#cite_note-48">[45]</a>
+<a href="/wiki/Peter_J._Denning" title="Peter J. Denning">Peter Denning</a>
+<a href="#cite_note-49">[46]</a>
+<a href="/wiki/Deductive_reasoning" title="Deductive reasoning">deductive reasoning</a>
+<a href="/wiki/Natural_science" title="Natural science">natural sciences</a>
+<a href="/wiki/Artificial_intelligence" title="Artificial intelligence">artificial intelligence</a>
+<a href="#cite_note-50">[47]</a>
+<a href="#cite_note-51">[48]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=4" title="Edit section: Fields">edit</a>
+<a href="/wiki/Michael_Fellows" title="Michael Fellows">Michael Fellows</a>
+<a href="/wiki/Outline_of_computer_science" title="Outline of computer science">Outline of computer science</a>
+<a href="#cite_note-CSAB1997-52">[49]</a>
+<a href="#cite_note-53">[50]</a>
+<a href="/wiki/CSAB_(professional_organization)" title="CSAB (professional organization)">CSAB</a>
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>
+<a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>
+<a href="#cite_note-54">[51]</a>
+<a href="/wiki/Symbolic_computation" class="mw-redirect" title="Symbolic computation">symbolic computation</a>
+<a href="#cite_note-CSAB1997-52">[49]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=5" title="Edit section: Theoretical computer science">edit</a>
+<a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">Theoretical computer science</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=6" title="Edit section: Data structures and algorithms">edit</a>
+<a href="/wiki/Data_structure" title="Data structure">Data structure</a>
+<a href="/wiki/Algorithm" title="Algorithm">Algorithm</a>
+<a href="/wiki/File:Sorting_quicksort_anim.gif" class="image"><img alt="Sorting quicksort anim.gif" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/96px-Sorting_quicksort_anim.gif" decoding="async" width="96" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/144px-Sorting_quicksort_anim.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sorting_quicksort_anim.gif/192px-Sorting_quicksort_anim.gif 2x" data-file-width="280" data-file-height="214"></a>
+<a href="/wiki/File:Singly_linked_list.png" class="image"><img alt="Singly linked list.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Singly_linked_list.png/96px-Singly_linked_list.png" decoding="async" width="96" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Singly_linked_list.png/144px-Singly_linked_list.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Singly_linked_list.png/192px-Singly_linked_list.png 2x" data-file-width="300" data-file-height="34"></a>
+<a href="/wiki/File:TSP_Deutschland_3.png" class="image"><img alt="TSP Deutschland 3.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TSP_Deutschland_3.png/96px-TSP_Deutschland_3.png" decoding="async" width="96" height="103" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TSP_Deutschland_3.png/144px-TSP_Deutschland_3.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TSP_Deutschland_3.png/192px-TSP_Deutschland_3.png 2x" data-file-width="328" data-file-height="352"></a>
+<a href="/wiki/File:SimplexRangeSearching.svg" class="image"><img alt="SimplexRangeSearching.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SimplexRangeSearching.svg/96px-SimplexRangeSearching.svg.png" decoding="async" width="96" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SimplexRangeSearching.svg/144px-SimplexRangeSearching.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/SimplexRangeSearching.svg/192px-SimplexRangeSearching.svg.png 2x" data-file-width="512" data-file-height="552"></a>
+<a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a>
+<a href="/wiki/Algorithm" title="Algorithm">Algorithms</a>
+<a href="/wiki/Data_structures" class="mw-redirect" title="Data structures">Data structures</a>
+<a href="/wiki/Combinatorial_optimization" title="Combinatorial optimization">Combinatorial optimization</a>
+<a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=7" title="Edit section: Theory of computation">edit</a>
+<a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a>
+<a href="/wiki/Peter_J._Denning" title="Peter J. Denning">Peter Denning</a>
+<a href="#cite_note-Denning_cs_discipline-17">[15]</a>
+<a href="/wiki/Computability_theory" title="Computability theory">computability theory</a>
+<a href="/wiki/Models_of_computation" class="mw-redirect" title="Models of computation">models of computation</a>
+<a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">computational complexity theory</a>
+<a href="/wiki/P_versus_NP_problem" title="P versus NP problem">P = NP?</a>
+<a href="/wiki/Millennium_Prize_Problems" title="Millennium Prize Problems">Millennium Prize Problems</a>
+<a href="#cite_note-55">[52]</a>
+<a href="/wiki/File:DFAexample.svg" class="image"><img alt="DFAexample.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/96px-DFAexample.svg.png" decoding="async" width="96" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/144px-DFAexample.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/DFAexample.svg/192px-DFAexample.svg.png 2x" data-file-width="274" data-file-height="155"></a>
+<a href="/wiki/File:Wang_tiles.svg" class="image"><img alt="Wang tiles.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wang_tiles.svg/96px-Wang_tiles.svg.png" decoding="async" width="96" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wang_tiles.svg/144px-Wang_tiles.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Wang_tiles.svg/192px-Wang_tiles.svg.png 2x" data-file-width="500" data-file-height="130"></a>
+<a href="/wiki/File:Blochsphere.svg" class="image"><img alt="Blochsphere.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Blochsphere.svg/96px-Blochsphere.svg.png" decoding="async" width="96" height="95" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Blochsphere.svg/144px-Blochsphere.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Blochsphere.svg/192px-Blochsphere.svg.png 2x" data-file-width="320" data-file-height="315"></a>
+<a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a>
+<a href="/wiki/Computability_theory" title="Computability theory">Computability theory</a>
+<a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a>
+<a href="/wiki/Cryptography" title="Cryptography">Cryptography</a>
+<a href="/wiki/Quantum_computer" class="mw-redirect" title="Quantum computer">Quantum computing theory</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=8" title="Edit section: Information and coding theory">edit</a>
+<a href="/wiki/Information_theory" title="Information theory">Information theory</a>
+<a href="/wiki/Coding_theory" title="Coding theory">Coding theory</a>
+<a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a>
+<a href="/wiki/Signal_processing" title="Signal processing">signal processing</a>
+<a href="#cite_note-56">[53]</a>
+<a href="/wiki/Code" title="Code">codes</a>
+<a href="/wiki/Data_compression" title="Data compression">data compression</a>
+<a href="/wiki/Cryptography" title="Cryptography">cryptography</a>
+<a href="/wiki/Error_detection_and_correction" title="Error detection and correction">error detection and correction</a>
+<a href="/wiki/Linear_network_coding" title="Linear network coding">network coding</a>
+<a href="/wiki/Data_transmission" title="Data transmission">data transmission</a>
+<a href="#cite_note-57">[54]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=9" title="Edit section: Programming language theory">edit</a>
+<a href="/wiki/Programming_language_theory" title="Programming language theory">Programming language theory</a>
+<a href="/wiki/Programming_language" title="Programming language">programming languages</a>
+<a href="/wiki/Programming_language#Elements" title="Programming language">features</a>
+<a href="/wiki/Mathematics" title="Mathematics">mathematics</a>
+<a href="/wiki/Linguistics" title="Linguistics">linguistics</a>
+<a href="/wiki/File:Compiler.svg" class="image"><img alt="Compiler.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Compiler.svg/96px-Compiler.svg.png" decoding="async" width="96" height="108" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Compiler.svg/144px-Compiler.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Compiler.svg/192px-Compiler.svg.png 2x" data-file-width="834" data-file-height="942"></a>
+<a href="/wiki/File:Python_add5_syntax.svg" class="image"><img alt="Python add5 syntax.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Python_add5_syntax.svg/96px-Python_add5_syntax.svg.png" decoding="async" width="96" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Python_add5_syntax.svg/144px-Python_add5_syntax.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Python_add5_syntax.svg/192px-Python_add5_syntax.svg.png 2x" data-file-width="602" data-file-height="449"></a>
+<a href="/wiki/Type_theory" title="Type theory">Type theory</a>
+<a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler design</a>
+<a href="/wiki/Programming_language" title="Programming language">Programming languages</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=10" title="Edit section: Formal methods">edit</a>
+<a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a>
+<a href="/wiki/Mathematics" title="Mathematics">mathematically</a>
+<a href="/wiki/Formal_specification" title="Formal specification">specification</a>
+<a href="/wiki/Formal_verification" title="Formal verification">verification</a>
+<a href="/wiki/Computer_hardware" title="Computer hardware">hardware</a>
+<a href="#cite_note-58">[55]</a>
+<a href="/wiki/Life-critical_system" class="mw-redirect" title="Life-critical system">life-critical systems</a>
+<a href="/wiki/Computer_security" title="Computer security">security</a>
+<a href="/wiki/Theoretical_computer_science" title="Theoretical computer science">theoretical computer science</a>
+<a href="/wiki/Logic_in_computer_science" title="Logic in computer science">logic</a>
+<a href="/wiki/Formal_language" title="Formal language">formal languages</a>
+<a href="/wiki/Automata_theory" title="Automata theory">automata theory</a>
+<a href="/wiki/Program_semantics" class="mw-redirect" title="Program semantics">program semantics</a>
+<a href="/wiki/Type_systems" class="mw-redirect" title="Type systems">type systems</a>
+<a href="/wiki/Algebraic_data_types" class="mw-redirect" title="Algebraic data types">algebraic data types</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=11" title="Edit section: Computer systems">edit</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=12" title="Edit section: Computer architecture and computer engineering">edit</a>
+<a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a>
+<a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a>
+<a href="#cite_note-59">[56]</a>
+<a href="/wiki/File:NOR_ANSI.svg" class="image"><img alt="NOR ANSI.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NOR_ANSI.svg/96px-NOR_ANSI.svg.png" decoding="async" width="96" height="48" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NOR_ANSI.svg/144px-NOR_ANSI.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NOR_ANSI.svg/192px-NOR_ANSI.svg.png 2x" data-file-width="100" data-file-height="50"></a>
+<a href="/wiki/File:Fivestagespipeline.png" class="image"><img alt="Fivestagespipeline.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Fivestagespipeline.png/96px-Fivestagespipeline.png" decoding="async" width="96" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Fivestagespipeline.png/144px-Fivestagespipeline.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Fivestagespipeline.png/192px-Fivestagespipeline.png 2x" data-file-width="972" data-file-height="282"></a>
+<a href="/wiki/File:SIMD.svg" class="image"><img alt="SIMD.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/SIMD.svg/96px-SIMD.svg.png" decoding="async" width="96" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/SIMD.svg/144px-SIMD.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/SIMD.svg/192px-SIMD.svg.png 2x" data-file-width="400" data-file-height="400"></a>
+<a href="/wiki/Boolean_algebra" title="Boolean algebra">Digital logic</a>
+<a href="/wiki/Microarchitecture" title="Microarchitecture">Microarchitecture</a>
+<a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a>
+<a href="/wiki/File:Roomba_original.jpg" class="image"><img alt="Roomba original.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roomba_original.jpg/96px-Roomba_original.jpg" decoding="async" width="96" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roomba_original.jpg/144px-Roomba_original.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Roomba_original.jpg/192px-Roomba_original.jpg 2x" data-file-width="800" data-file-height="737"></a>
+<a href="/wiki/File:Flowchart.png" class="image"><img alt="Flowchart.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flowchart.png/96px-Flowchart.png" decoding="async" width="96" height="81" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flowchart.png/144px-Flowchart.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9d/Flowchart.png 2x" data-file-width="171" data-file-height="144"></a>
+<a href="/wiki/File:Operating_system_placement.svg" class="image"><img alt="Operating system placement.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/96px-Operating_system_placement.svg.png" decoding="async" width="96" height="142" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/144px-Operating_system_placement.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/192px-Operating_system_placement.svg.png 2x" data-file-width="250" data-file-height="370"></a>
+<a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a>
+<a href="/wiki/Systems_architecture" title="Systems architecture">Systems architecture</a>
+<a href="/wiki/Operating_system" title="Operating system">Operating systems</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=13" title="Edit section: Computer performance analysis">edit</a>
+<a href="/wiki/Computer_performance" title="Computer performance">Computer performance</a>
+<a href="/wiki/Benchmark_(computing)" title="Benchmark (computing)">Benchmark (computing)</a>
+<a href="/wiki/Throughput" title="Throughput">throughput</a>
+<a href="/wiki/Response_time_(technology)" title="Response time (technology)">response time</a>
+<a href="/wiki/Bottleneck_(software)" title="Bottleneck (software)">bottlenecks</a>
+<a href="#cite_note-60">[57]</a>
+<a href="/wiki/Benchmark_(computing)" title="Benchmark (computing)">Benchmarks</a>
+<a href="#cite_note-61">[58]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=14" title="Edit section: Concurrent, parallel and distributed systems">edit</a>
+<a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency (computer science)</a>
+<a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a>
+<a href="#cite_note-62">[59]</a>
+<a href="/wiki/Petri_net" title="Petri net">Petri nets</a>
+<a href="/wiki/Process_calculus" title="Process calculus">process calculi</a>
+<a href="/wiki/Parallel_random-access_machine" title="Parallel random-access machine">Parallel Random Access Machine</a>
+<a href="#cite_note-63">[60]</a>
+<a href="#cite_note-64">[61]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=15" title="Edit section: Computer networks">edit</a>
+<a href="/wiki/Computer_network" title="Computer network">Computer network</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=16" title="Edit section: Computer security and cryptography">edit</a>
+<a href="/wiki/Computer_security" title="Computer security">Computer security</a>
+<a href="/wiki/Cryptography" title="Cryptography">Cryptography</a>
+<a href="/wiki/Cryptography" title="Cryptography">Cryptography</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=17" title="Edit section: Databases">edit</a>
+<a href="/wiki/Database" title="Database">Database</a>
+<a href="/wiki/File:Wiki_letter_w.svg" class="image"><img alt="Wiki letter w.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/44px-Wiki_letter_w.svg.png" decoding="async" width="44" height="44" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/66px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/6c/Wiki_letter_w.svg/88px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44"></a>
+<a href="/wiki/Talk:Computer_science" title="Talk:Computer science">talk page</a>
+<a href="/wiki/Database_model" title="Database model">database models</a>
+<a href="/wiki/Query_language" title="Query language">query languages</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=18" title="Edit section: Computer applications">edit</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=19" title="Edit section: Computer graphics and visualization">edit</a>
+<a href="/wiki/Computer_graphics_(computer_science)" title="Computer graphics (computer science)">Computer graphics (computer science)</a>
+<a href="/wiki/Computer_vision" title="Computer vision">computer vision</a>
+<a href="/wiki/Image_processing" class="mw-redirect" title="Image processing">image processing</a>
+<a href="/wiki/Computational_geometry" title="Computational geometry">computational geometry</a>
+<a href="/wiki/Video_game" title="Video game">video games</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=20" title="Edit section: Human–computer interaction">edit</a>
+<a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer interaction</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=21" title="Edit section: Scientific computing and simulation">edit</a>
+<a href="/wiki/Scientific_computing" class="mw-redirect" title="Scientific computing">Scientific computing</a>
+<a href="/wiki/Computational_science" title="Computational science">computational science</a>
+<a href="/wiki/Scientific_modelling" title="Scientific modelling">mathematical models</a>
+<a href="/wiki/Numerical_analysis" title="Numerical analysis">quantitative analysis</a>
+<a href="/wiki/Science" title="Science">scientific</a>
+<a href="/wiki/Simulation" title="Simulation">simulation</a>
+<a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a>
+<a href="#cite_note-65">[62]</a>
+<a href="/wiki/Integrated_circuit" title="Integrated circuit">integrated circuits</a>
+<a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2010)">citation needed</span></a>
+<a href="/wiki/File:Lorenz_attractor_yb.svg" class="image"><img alt="Lorenz attractor yb.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/96px-Lorenz_attractor_yb.svg.png" decoding="async" width="96" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/144px-Lorenz_attractor_yb.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lorenz_attractor_yb.svg/192px-Lorenz_attractor_yb.svg.png 2x" data-file-width="750" data-file-height="750"></a>
+<a href="/wiki/File:Quark_wiki.jpg" class="image"><img alt="Quark wiki.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Quark_wiki.jpg/96px-Quark_wiki.jpg" decoding="async" width="96" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Quark_wiki.jpg/144px-Quark_wiki.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Quark_wiki.jpg/192px-Quark_wiki.jpg 2x" data-file-width="1500" data-file-height="1500"></a>
+<a href="/wiki/File:Naphthalene-3D-balls.png" class="image"><img alt="Naphthalene-3D-balls.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Naphthalene-3D-balls.png/96px-Naphthalene-3D-balls.png" decoding="async" width="96" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Naphthalene-3D-balls.png/144px-Naphthalene-3D-balls.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Naphthalene-3D-balls.png/192px-Naphthalene-3D-balls.png 2x" data-file-width="1100" data-file-height="837"></a>
+<a href="/wiki/File:1u04-argonaute.png" class="image"><img alt="1u04-argonaute.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/1u04-argonaute.png/96px-1u04-argonaute.png" decoding="async" width="96" height="82" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/1u04-argonaute.png/144px-1u04-argonaute.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/1u04-argonaute.png/192px-1u04-argonaute.png 2x" data-file-width="996" data-file-height="849"></a>
+<a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a>
+<a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a>
+<a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a>
+<a href="/wiki/Bioinformatics" title="Bioinformatics">Bioinformatics</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=22" title="Edit section: Artificial intelligence">edit</a>
+<a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial intelligence</a>
+<a href="/wiki/Cybernetics" title="Cybernetics">cybernetics</a>
+<a href="/wiki/History_of_artificial_intelligence" title="History of artificial intelligence">Dartmouth Conference</a>
+<a href="/wiki/Applied_mathematics" title="Applied mathematics">applied mathematics</a>
+<a href="/wiki/Mathematical_logic" title="Mathematical logic">symbolic logic</a>
+<a href="/wiki/Semiotics" title="Semiotics">semiotics</a>
+<a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineering</a>
+<a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">philosophy of mind</a>
+<a href="/wiki/Neurophysiology" title="Neurophysiology">neurophysiology</a>
+<a href="/wiki/Social_intelligence" title="Social intelligence">social intelligence</a>
+<a href="/wiki/Robotics" title="Robotics">robotic development</a>
+<a href="/wiki/Software_development" title="Software development">software development</a>
+<a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>
+<a href="/wiki/Turing_test" title="Turing test">Turing test</a>
+<a href="/wiki/File:Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png" class="image"><img alt="Nicolas P. Rougier's rendering of the human brain.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/96px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png" decoding="async" width="96" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/144px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png/192px-Nicolas_P._Rougier%27s_rendering_of_the_human_brain.png 2x" data-file-width="800" data-file-height="600"></a>
+<a href="/wiki/File:Human_eye,_rendered_from_Eye.png" class="image"><img alt="Human eye, rendered from Eye.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Human_eye%2C_rendered_from_Eye.png/96px-Human_eye%2C_rendered_from_Eye.png" decoding="async" width="96" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Human_eye%2C_rendered_from_Eye.png/144px-Human_eye%2C_rendered_from_Eye.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Human_eye%2C_rendered_from_Eye.png/192px-Human_eye%2C_rendered_from_Eye.png 2x" data-file-width="567" data-file-height="567"></a>
+<a href="/wiki/File:Corner.png" class="image"><img alt="Corner.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Corner.png/96px-Corner.png" decoding="async" width="96" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Corner.png/144px-Corner.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Corner.png/192px-Corner.png 2x" data-file-width="595" data-file-height="517"></a>
+<a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a>
+<a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a>
+<a href="/wiki/Image_processing" class="mw-redirect" title="Image processing">Image processing</a>
+<a href="/wiki/File:KnnClassification.svg" class="image"><img alt="KnnClassification.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/96px-KnnClassification.svg.png" decoding="async" width="96" height="87" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/144px-KnnClassification.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/KnnClassification.svg/192px-KnnClassification.svg.png 2x" data-file-width="279" data-file-height="252"></a>
+<a href="/wiki/File:Julia_iteration_data.png" class="image"><img alt="Julia iteration data.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Julia_iteration_data.png/96px-Julia_iteration_data.png" decoding="async" width="96" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Julia_iteration_data.png/144px-Julia_iteration_data.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Julia_iteration_data.png/192px-Julia_iteration_data.png 2x" data-file-width="640" data-file-height="480"></a>
+<a href="/wiki/File:Sky.png" class="image"><img alt="Sky.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sky.png/96px-Sky.png" decoding="async" width="96" height="48" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sky.png/144px-Sky.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sky.png/192px-Sky.png 2x" data-file-width="4000" data-file-height="2000"></a>
+<a href="/wiki/Pattern_recognition" title="Pattern recognition">Pattern recognition</a>
+<a href="/wiki/Data_mining" title="Data mining">Data mining</a>
+<a href="/wiki/Evolutionary_computation" title="Evolutionary computation">Evolutionary computation</a>
+<a href="/wiki/File:Neuron.svg" class="image"><img alt="Neuron.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/96px-Neuron.svg.png" decoding="async" width="96" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/144px-Neuron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Neuron.svg/192px-Neuron.svg.png 2x" data-file-width="400" data-file-height="215"></a>
+<a href="/wiki/File:English.png" class="image"><img alt="English.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/English.png/96px-English.png" decoding="async" width="96" height="68" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/English.png/144px-English.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/English.png/192px-English.png 2x" data-file-width="500" data-file-height="352"></a>
+<a href="/wiki/File:HONDA_ASIMO.jpg" class="image"><img alt="HONDA ASIMO.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/HONDA_ASIMO.jpg/64px-HONDA_ASIMO.jpg" decoding="async" width="64" height="85" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/HONDA_ASIMO.jpg/96px-HONDA_ASIMO.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/HONDA_ASIMO.jpg/128px-HONDA_ASIMO.jpg 2x" data-file-width="960" data-file-height="1280"></a>
+<a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a>
+<a href="/wiki/Natural_language_processing" title="Natural language processing">Natural language processing</a>
+<a href="/wiki/Robotics" title="Robotics">Robotics</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=23" title="Edit section: Software engineering">edit</a>
+<a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a>
+<a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=24" title="Edit section: Discoveries">edit</a>
+<a href="/wiki/William_J._Rapaport" title="William J. Rapaport">Bill Rapaport</a>
+<a href="#cite_note-66">[63]</a>
+<a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a>
+<a href="/wiki/George_Boole" title="George Boole">George Boole</a>
+<a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>
+<a href="/wiki/Claude_Shannon" title="Claude Shannon">Claude Shannon</a>
+<a href="/wiki/Samuel_Morse" title="Samuel Morse">Samuel Morse</a>
+<a href="#cite_note-67">[note 4]</a>
+<a href="/wiki/Digital_physics" title="Digital physics">Digital physics</a>
+<a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a>
+<a href="#cite_note-68">[64]</a>
+<a href="/wiki/Turing_machine" title="Turing machine">Turing machine</a>
+<a href="/wiki/Corrado_B%C3%B6hm" title="Corrado Böhm">Corrado Böhm</a>
+<a href="/w/index.php?title=Giuseppe_Jacopini&amp;action=edit&amp;redlink=1" class="new" title="Giuseppe Jacopini (page does not exist)">Giuseppe Jacopini</a>
+<a href="#cite_note-69">[65]</a>
+<a href="/wiki/Goto" title="Goto">goto</a>
+<a href="/wiki/Structured_programming" title="Structured programming">structured programming</a>
+<a href="/wiki/Elementary_function_arithmetic#Friedman's_grand_conjecture" title="Elementary function arithmetic">Elementary function arithmetic §&nbsp;Friedman's grand conjecture</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=25" title="Edit section: Programming paradigms">edit</a>
+<a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a>
+<a href="/wiki/Functional_programming" title="Functional programming">Functional programming</a>
+<a href="#cite_note-70">[66]</a>
+<a href="/wiki/Imperative_programming" title="Imperative programming">Imperative programming</a>
+<a href="#cite_note-71">[67]</a>
+<a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object-oriented programming</a>
+<a href="#cite_note-72">[68]</a>
+<a href="#cite_note-73">[69]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=26" title="Edit section: Academia">edit</a>
+<a href="/wiki/List_of_computer_science_conferences" title="List of computer science conferences">List of computer science conferences</a>
+<a href="/wiki/Category:Computer_science_journals" title="Category:Computer science journals">Category:Computer science journals</a>
+<a href="/wiki/Proceedings" class="mw-redirect" title="Proceedings">conference papers</a>
+<a href="#cite_note-74">[70]</a>
+<a href="#cite_note-75">[71]</a>
+<a href="#cite_note-76">[72]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=27" title="Edit section: Education">edit</a>
+<a href="/wiki/Computer_science_education" title="Computer science education">Computer science education</a>
+<a href="/wiki/Batch_processing" title="Batch processing">batch processing</a>
+<a href="/wiki/Punched_cards" class="mw-redirect" title="Punched cards">mark sensitive cards</a>
+<a href="/wiki/Paper_tape" class="mw-redirect" title="Paper tape">paper tape</a>
+<a href="#cite_note-77">[73]</a>
+<a href="/wiki/BBC_Model_B" class="mw-redirect" title="BBC Model B">micro-computer</a>
+<a href="/wiki/Econet" title="Econet">classroom network</a>
+<a href="/wiki/O_level" class="mw-redirect" title="O level">O level</a>
+<a href="/wiki/A_level" class="mw-redirect" title="A level">A level</a>
+<a href="/wiki/National_Curriculum" class="mw-redirect" title="National Curriculum">National Curriculum</a>
+<a href="#cite_note-Jones-78">[74]</a>
+<a href="/wiki/United_States_of_America" class="mw-redirect" title="United States of America">US</a>
+<a href="#cite_note-79">[75]</a>
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>
+<a href="/wiki/Computer_Science_Teachers_Association" title="Computer Science Teachers Association">Computer Science Teachers Association</a>
+<a href="#cite_note-80">[76]</a>
+<a href="#cite_note-81">[77]</a>
+<a href="#cite_note-82">[78]</a>
+<a href="#cite_note-83">[79]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=28" title="Edit section: Women in Computer Science">edit</a>
+<a href="#cite_note-84">[80]</a>
+<a href="#cite_note-gender-85">[81]</a>
+<a href="/wiki/Malaysia" title="Malaysia">Malaysia</a>
+<a href="#cite_note-86">[82]</a>
+<a href="/wiki/Guyana" title="Guyana">Guyana</a>
+<a href="#cite_note-gender-85">[81]</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=29" title="Edit section: See also">edit</a>
+<a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">Glossary of computer science</a>
+<a href="/wiki/Outline_of_computer_science" title="Outline of computer science">Outline of computer science</a>
+<a href="/wiki/Computer_Science_and_Engineering" title="Computer Science and Engineering">Computer Science and Engineering</a>
+<a href="/wiki/Information_technology" title="Information technology">Information technology</a>
+<a href="/wiki/List_of_computer_scientists" title="List of computer scientists">List of computer scientists</a>
+<a href="/wiki/List_of_computer_science_awards" title="List of computer science awards">List of computer science awards</a>
+<a href="/wiki/List_of_important_publications_in_computer_science" title="List of important publications in computer science">List of important publications in computer science</a>
+<a href="/wiki/List_of_pioneers_in_computer_science" title="List of pioneers in computer science">List of pioneers in computer science</a>
+<a href="/wiki/List_of_unsolved_problems_in_computer_science" title="List of unsolved problems in computer science">List of unsolved problems in computer science</a>
+<a href="/wiki/List_of_terms_relating_to_algorithms_and_data_structures" title="List of terms relating to algorithms and data structures">List of terms relating to algorithms and data structures</a>
+<a href="/wiki/Digital_Revolution" title="Digital Revolution">Digital Revolution</a>
+<a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a>
+<a href="/wiki/Programming_language" title="Programming language">programming language</a>
+<a href="/wiki/Algorithmic_trading" title="Algorithmic trading">Algorithmic trading</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=30" title="Edit section: Notes">edit</a>
+<a href="#cite_ref-6">^</a>
+<a href="#cite_ref-9">^</a>
+<a href="#COLLIER">Bruce Collier</a>
+<a href="#cite_ref-45">^</a>
+<a href="https://en.wikiquote.org/wiki/Computer_science" class="extiw" title="q:Computer science">Computer science</a>
+<a href="#cite_ref-67">^</a>
+<a href="/wiki/Halting_problem" title="Halting problem">Halting problem</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=31" title="Edit section: References">edit</a>
+<a href="#cite_ref-1">^</a>
+<a rel="nofollow" class="external text" href="http://wordnetweb.princeton.edu/perl/webwn?s=computer%20scientist">"WordNet Search—3.1"</a>
+<a href="#cite_ref-2">^</a>
+<a rel="nofollow" class="external text" href="http://www.cbi.umn.edu/about/babbage.html">"Charles Babbage Institute: Who Was Charles Babbage?"</a>
+<a href="#cite_ref-3">^</a>
+<a rel="nofollow" class="external text" href="http://www.computerhistory.org/babbage/adalovelace/">"Ada Lovelace | Babbage Engine | Computer History Museum"</a>
+<a href="#cite_ref-4">^</a>
+<a rel="nofollow" class="external text" href="http://www.fmi.uni-jena.de/fmimedia/Fakultaet/Institute+und+Abteilungen/Abteilung+f%C3%BCr+Didaktik/GDI/Wilhelm+Schickard.pdf">"Wilhelm Schickard – Ein Computerpionier"</a>
+<a href="#cite_ref-5">^</a>
+<a rel="nofollow" class="external text" href="http://blogs.royalsociety.org/history-of-science/2012/06/25/history-of-computing/">"A Brief History of Computing"</a>
+<a href="#cite_ref-7">^</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20060908054017/http://www.sciencemuseum.org.uk/on-line/babbage/index.asp">"Science Museum—Introduction to Babbage"</a>
+<a rel="nofollow" class="external text" href="http://www.sciencemuseum.org.uk/on-line/babbage/index.asp">the original</a>
+<a href="#cite_ref-Hyman1982_8-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-Hyman1982_8-1"><sup><i><b>b</b></i></sup></a>
+<a href="#cite_ref-10">^</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20060210172109/http://www.scottlan.edu/lriddle/women/ada-love.htm">"A Selection and Adaptation From Ada's Notes found in Ada, The Enchantress of Numbers," by Betty Alexandra Toole Ed.D. Strawberry Press, Mill Valley, CA"</a>
+<a rel="nofollow" class="external text" href="http://www.scottlan.edu/Lriddle/women/ada-love.htm">the original</a>
+<a href="#cite_ref-11">^</a>
+<a rel="nofollow" class="external text" href="https://scss.tcd.ie/SCSSTreasuresCatalog/miscellany/TCD-SCSS-X.20121208.002/TCD-SCSS-X.20121208.002.pdf/">The John Gabriel Byrne Computer Science Collection</a>
+<a href="#cite_ref-12">^</a>
+<a href="#AIKEN">Bernard Cohen</a>
+<a href="#cite_ref-13">^</a>
+<a href="#ORIGINS">Brian Randell</a>
+<a href="#cite_ref-14">^</a>
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>
+<a href="#cite_ref-15">^</a>
+<a rel="nofollow" class="external text" href="https://www.ibm.com/ibm/history/history/year_1945.html">"IBM Archives: 1945"</a>
+<a href="#cite_ref-16">^</a>
+<a rel="nofollow" class="external text" href="https://www.ibm.com/ibm/history/ibm100/us/en/icons/compsci/">"IBM100 – The Origins of Computer Science"</a>
+<a href="#cite_ref-Denning_cs_discipline_17-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-Denning_cs_discipline_17-1"><sup><i><b>b</b></i></sup></a>
+<a href="#cite_ref-Denning_cs_discipline_17-2"><sup><i><b>c</b></i></sup></a>
+<a href="/wiki/Peter_J._Denning" title="Peter J. Denning">Denning, Peter J.</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20060525195404/http://www.idi.ntnu.no/emner/dif8916/denning.pdf">"Computer Science: The Discipline"</a>
+<a rel="nofollow" class="external text" href="http://www.idi.ntnu.no/emner/dif8916/denning.pdf">the original</a>
+<a href="#cite_ref-18">^</a>
+<a rel="nofollow" class="external text" href="http://www.cl.cam.ac.uk/conference/EDSAC99/statistics.html">"Some EDSAC statistics"</a>
+<a href="#cite_ref-19">^</a>
+<a rel="nofollow" class="external text" href="http://www.cs.purdue.edu/about/conte.html">"Computer science pioneer Samuel D. Conte dies at 85"</a>
+<a href="#cite_ref-Levy1984_20-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-Levy1984_20-1"><sup><i><b>b</b></i></sup></a>
+<a href="/wiki/Steven_Levy" title="Steven Levy">Levy, Steven</a>
+<a href="/wiki/Hackers:_Heroes_of_the_Computer_Revolution" title="Hackers: Heroes of the Computer Revolution"><i>Hackers: Heroes of the Computer Revolution</i></a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-0-385-19195-1" title="Special:BookSources/978-0-385-19195-1"><bdi>978-0-385-19195-1</bdi></a>
+<a href="#cite_ref-Tedre2014_21-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-Tedre2014_21-1"><sup><i><b>b</b></i></sup></a>
+<a href="#cite_ref-Tedre2014_21-2"><sup><i><b>c</b></i></sup></a>
+<a href="#cite_ref-Tedre2014_21-3"><sup><i><b>d</b></i></sup></a>
+<a href="#cite_ref-22">^</a>
+<a rel="nofollow" class="external text" href="http://www.computerhistory.org/revolution/computer-graphics-music-and-art/15/222/633">"IBM 704 Electronic Data Processing System—CHM Revolution"</a>
+<a href="#cite_ref-23">^</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304130040/http://archive.computerhistory.org/resources/text/IBM/IBM.709.1957.102646304.pdf">"IBM 709: a powerful new data processing system"</a>
+<a rel="nofollow" class="external text" href="http://archive.computerhistory.org/resources/text/IBM/IBM.709.1957.102646304.pdf">the original</a>
+<a href="#cite_ref-Lee_24-0">^</a>
+<a rel="nofollow" class="external text" href="https://web.stanford.edu/class/archive/ee/ee214/ee214.1032/Handouts/HO2.pdf"><i>The Design of CMOS Radio-Frequency Integrated Circuits</i></a>
+<a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/9781139643771" title="Special:BookSources/9781139643771"><bdi>9781139643771</bdi></a>
+<a href="#cite_ref-Puers_25-0">^</a>
+<a rel="nofollow" class="external text" href="https://books.google.com/books?id=JOqVDgAAQBAJ&amp;pg=PA14"><i>Nanoelectronics: Materials, Devices, Applications, 2 Volumes</i></a>
+<a href="/wiki/John_Wiley_%26_Sons" class="mw-redirect" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/9783527340538" title="Special:BookSources/9783527340538"><bdi>9783527340538</bdi></a>
+<a href="#cite_ref-26">^</a>
+<a href="#cite_ref-Moskowitz_27-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-Moskowitz_27-1"><sup><i><b>b</b></i></sup></a>
+<a rel="nofollow" class="external text" href="https://books.google.com/books?id=2STRDAAAQBAJ&amp;pg=PA165"><i>Advanced Materials Innovation: Managing Global Technology in the 21st century</i></a>
+<a href="/wiki/John_Wiley_%26_Sons" class="mw-redirect" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/9780470508923" title="Special:BookSources/9780470508923"><bdi>9780470508923</bdi></a>
+<a href="#cite_ref-computerhistory_28-0">^</a>
+<a rel="nofollow" class="external text" href="https://www.computerhistory.org/siliconengine/metal-oxide-semiconductor-mos-transistor-demonstrated/">"1960 - Metal Oxide Semiconductor (MOS) Transistor Demonstrated"</a>
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a>
+<a href="#cite_ref-Lojek_29-0">^</a>
+<a href="/wiki/Springer_Science_%26_Business_Media" class="mw-redirect" title="Springer Science &amp; Business Media">Springer Science &amp; Business Media</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/9783540342588" title="Special:BookSources/9783540342588"><bdi>9783540342588</bdi></a>
+<a href="#cite_ref-computerhistory-transistor_30-0">^</a>
+<a rel="nofollow" class="external text" href="https://www.computerhistory.org/atchm/who-invented-the-transistor/">"Who Invented the Transistor?"</a>
+<a href="/wiki/Computer_History_Museum" title="Computer History Museum">Computer History Museum</a>
+<a href="#cite_ref-Hittinger_31-0">^</a>
+<a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>
+<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1973SciAm.229b..48H">1973SciAm.229b..48H</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2Fscientificamerican0873-48">10.1038/scientificamerican0873-48</a>
+<a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>
+<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0036-8733">0036-8733</a>
+<a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>
+<a rel="nofollow" class="external text" href="//www.jstor.org/stable/24923169">24923169</a>
+<a href="#cite_ref-32">^</a>
+<a rel="nofollow" class="external text" href="https://books.google.com/books?id=zZJfAAAAQBAJ&amp;pg=PR7"><i>Fundamentals of Ultra-Thin-Body MOSFETs and FinFETs</i></a>
+<a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/9781107434493" title="Special:BookSources/9781107434493"><bdi>9781107434493</bdi></a>
+<a href="#cite_ref-33">^</a>
+<a rel="nofollow" class="external text" href="https://books.google.com/books?id=lyJGAQAAIAAJ"><i>Making the Right Connections: Microcomputers and Electronic Instrumentation</i></a>
+<a href="/wiki/American_Chemical_Society" title="American Chemical Society">American Chemical Society</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/9780841228610" title="Special:BookSources/9780841228610"><bdi>9780841228610</bdi></a>
+<a href="#cite_ref-34">^</a>
+<a rel="nofollow" class="external text" href="http://www.computerhistory.org/timeline/computers/">"Timeline of Computer History"</a>
+<a href="#cite_ref-Fine_1959_35-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-Fine_1959_35-1"><sup><i><b>b</b></i></sup></a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F368424.368427">10.1145/368424.368427</a>
+<a href="#cite_ref-36">^</a>
+<a rel="nofollow" class="external text" href="http://library.stanford.edu/guides/stanford-university-oral-history">"Stanford University Oral History"</a>
+<a href="#cite_ref-37">^</a>
+<a href="/wiki/Donald_Knuth" title="Donald Knuth">Donald Knuth</a>
+<a rel="nofollow" class="external text" href="http://www.stanford.edu/dept/ICME/docs/history/forsythe_knuth.pdf">"George Forsythe and the Development of Computer Science"</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20131020200802/http://www.stanford.edu/dept/ICME/docs/history/forsythe_knuth.pdf">Archived</a>
+<a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>
+<a href="#cite_ref-38">^</a>
+<a rel="nofollow" class="external text" href="http://epublications.uef.fi/pub/urn_isbn_952-458-867-6/urn_isbn_952-458-867-6.pdf">"The Development of Computer Science: A Sociocultural Perspective"</a>
+<a href="#cite_ref-39">^</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F365719.366510">10.1145/365719.366510</a>
+<a href="#cite_ref-40">^</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F368796.368802">10.1145/368796.368802</a>
+<a href="#cite_ref-41">^</a>
+<a href="#cite_ref-42">^</a>
+<a href="#cite_ref-43">^</a>
+<a href="#cite_ref-44">^</a>
+<a rel="nofollow" class="external text" href="http://cacm.acm.org/magazines/2010/2/69363-why-an-informatics-degree">"Why an Informatics Degree? | February 2010 | Communications of the ACM"</a>
+<a href="#cite_ref-46">^</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11023-011-9240-4">10.1007/s11023-011-9240-4</a>
+<a href="#cite_ref-47">^</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1023%2FA%3A1018949113292">10.1023/A:1018949113292</a>
+<a href="#cite_ref-48">^</a>
+<a href="#cite_ref-49">^</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F63238.63239">10.1145/63238.63239</a>
+<a href="#cite_ref-50">^</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160215100211/http://www.eden-study.org/articles/2007/three_paradigms_of_computer_science.pdf">"Three Paradigms of Computer Science"</a>
+<a href="/wiki/Minds_and_Machines" title="Minds and Machines">Minds and Machines</a>
+<a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a>
+<a rel="nofollow" class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.304.7763">10.1.1.304.7763</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs11023-007-9060-8">10.1007/s11023-007-9060-8</a>
+<a rel="nofollow" class="external text" href="http://www.eden-study.org/articles/2007/three_paradigms_of_computer_science.pdf">the original</a>
+<a href="#cite_ref-51">^</a>
+<a rel="nofollow" class="external free" href="https://plato.stanford.edu/archives/spr2019/entries/computer-science/">https://plato.stanford.edu/archives/spr2019/entries/computer-science/</a>
+<a href="#cite_ref-CSAB1997_52-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-CSAB1997_52-1"><sup><i><b>b</b></i></sup></a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080617030847/http://www.csab.org/comp_sci_profession.html">"Computer Science as a Profession"</a>
+<a rel="nofollow" class="external text" href="http://www.csab.org/comp_sci_profession.html">the original</a>
+<a href="#cite_ref-53">^</a>
+<a rel="nofollow" class="external text" href="http://www.nap.edu/catalog.php?record_id=11106#toc"><i>Computer Science: Reflections on the Field, Reflections from the Field</i></a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-0-309-09301-9" title="Special:BookSources/978-0-309-09301-9"><bdi>978-0-309-09301-9</bdi></a>
+<a href="#cite_ref-54">^</a>
+<a rel="nofollow" class="external text" href="http://www.csab.org/">"CSAB Leading Computer Education"</a>
+<a href="#cite_ref-55">^</a>
+<a rel="nofollow" class="external text" href="http://www.claymath.org/millennium/P_vs_NP/">Clay Mathematics Institute</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20131014194456/http://www.claymath.org/millennium/P_vs_NP/">Archived</a>
+<a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>
+<a href="#cite_ref-56">^</a>
+<a rel="nofollow" class="external text" href="http://www.scientificamerican.com/article.cfm?id=claude-e-shannon-founder">"Claude E. Shannon: Founder of Information Theory"</a>
+<a href="#cite_ref-57">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-3-642-35443-4" title="Special:BookSources/978-3-642-35443-4">978-3-642-35443-4</a>
+<a href="#cite_ref-58">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-351-24926-3" title="Special:BookSources/978-1-351-24926-3">978-1-351-24926-3</a>
+<a href="#cite_ref-59">^</a>
+<a rel="nofollow" class="external text" href="http://galton.uchicago.edu/~thisted/Distribute/comparch.pdf">"Computer Architecture"</a>
+<a href="#cite_ref-60">^</a>
+<a href="/wiki/CreateSpace" title="CreateSpace">CreateSpace</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-4826-5775-3" title="Special:BookSources/978-1-4826-5775-3"><bdi>978-1-4826-5775-3</bdi></a>
+<a href="#cite_ref-61">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-60709-285-8" title="Special:BookSources/978-1-60709-285-8">978-1-60709-285-8</a>
+<a href="#cite_ref-62">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-119-42070-5" title="Special:BookSources/978-1-119-42070-5">978-1-119-42070-5</a>
+<a href="#cite_ref-63">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-3-642-37225-4" title="Special:BookSources/978-3-642-37225-4">978-3-642-37225-4</a>
+<a href="#cite_ref-64">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-3-319-73981-6" title="Special:BookSources/978-3-319-73981-6">978-3-319-73981-6</a>
+<a href="#cite_ref-65">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-4398-6047-2" title="Special:BookSources/978-1-4398-6047-2">978-1-4398-6047-2</a>
+<a href="#cite_ref-66">^</a>
+<a rel="nofollow" class="external text" href="http://www.cse.buffalo.edu/~rapaport/computation.html">"What Is Computation?"</a>
+<a href="#cite_ref-68">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-0-19-960915-4" title="Special:BookSources/978-0-19-960915-4">978-0-19-960915-4</a>
+<a href="#cite_ref-69">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/0-538-47866-7" title="Special:BookSources/0-538-47866-7">0-538-47866-7</a>
+<a href="#cite_ref-70">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-78355-050-0" title="Special:BookSources/978-1-78355-050-0">978-1-78355-050-0</a>
+<a href="#cite_ref-71">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-78728-604-7" title="Special:BookSources/978-1-78728-604-7">978-1-78728-604-7</a>
+<a href="#cite_ref-72">^</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-118-98730-8" title="Special:BookSources/978-1-118-98730-8">978-1-118-98730-8</a>
+<a href="#cite_ref-73">^</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130821052407/https://developer.mozilla.org/en-US/docs/multiparadigmlanguage.html">"Multi-Paradigm Programming Language"</a>
+<a href="/wiki/Mozilla_Foundation" title="Mozilla Foundation">Mozilla Foundation</a>
+<a rel="nofollow" class="external text" href="https://developer.mozilla.org/en-US/docs/multiparadigmlanguage.html">the original</a>
+<a href="#cite_ref-74">^</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F1498765.1498780">10.1145/1498765.1498780</a>
+<a href="#cite_ref-75">^</a>
+<a rel="nofollow" class="external text" href="http://cra.org/resources/bp-view/evaluating_computer_scientists_and_engineers_for_promotion_and_tenure/">"Evaluating Computer Scientists and Engineers For Promotion and Tenure"</a>
+<a href="#cite_ref-76">^</a>
+<a rel="nofollow" class="external text" href="http://cacm.acm.org/magazines/2009/8/34492-viewpoint-time-for-computer-science-to-grow-up/fulltext">"Viewpoint: Time for Computer Science to Grow Up"</a>
+<a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>
+<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F1536616.1536631">10.1145/1536616.1536631</a>
+<a href="#cite_ref-77">^</a>
+<a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/education-35890450">"Computer science A-level 1970s style"</a>
+<a href="#cite_ref-Jones_78-0">^</a>
+<a rel="nofollow" class="external text" href="https://www.wcmt.org.uk/sites/default/files/report-documents/Jones%20M%20Report%202015%20%20Final.pdf">"Developing a Computer Science Curriculum in England: Exploring Approaches in the USA"</a>
+<a href="#cite_ref-79">^</a>
+<a rel="nofollow" class="external text" href="http://www.edweek.org/ew/articles/2014/02/26/22computer_ep.h33.html">"Computer Science: Not Just an Elective Anymore"</a>
+<a href="#cite_ref-80">^</a>
+<a rel="nofollow" class="external text" href="http://runningonempty.acm.org/fullreport2.pdf">"Running on Empty: The Failure to Teach K–12 Computer Science in the Digital Age"</a>
+<a href="#cite_ref-81">^</a>
+<a rel="nofollow" class="external text" href="https://www.economist.com/news/international/21601250-global-push-more-computer-science-classrooms-starting-bear-fruit">"A is for algorithm"</a>
+<a href="#cite_ref-82">^</a>
+<a rel="nofollow" class="external text" href="http://www.computingatschool.org.uk/data/uploads/internationalcomparisons-v5.pdf">"Computing at School International comparisons"</a>
+<a href="#cite_ref-83">^</a>
+<a rel="nofollow" class="external text" href="https://www.nytimes.com/2014/03/24/world/europe/adding-coding-to-the-curriculum.html">"Adding Coding to the Curriculum"</a>
+<a href="#cite_ref-84">^</a>
+<a rel="nofollow" class="external text" href="http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/">"Percentage of Bachelor's degrees conferred to women, by major (1970–2012)"</a>
+<a href="#cite_ref-gender_85-0"><sup><i><b>a</b></i></sup></a>
+<a href="#cite_ref-gender_85-1"><sup><i><b>b</b></i></sup></a>
+<a rel="nofollow" class="external text" href="https://www.techrepublic.com/blog/software-engineer/it-gender-gap-where-are-the-female-programmers/">"IT gender gap: Where are the female programmers?"</a>
+<a href="#cite_ref-86">^</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150924103245/http://www.soc.ucsb.edu/faculty/mariacharles/documents/WhatGenderisScience.pdf">"what <i>[sic!]</i> gender is science"</a>
+<a rel="nofollow" class="external text" href="http://www.soc.ucsb.edu/faculty/mariacharles/documents/WhatGenderisScience.pdf">the original</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=32" title="Edit section: Further reading">edit</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=33" title="Edit section: Overview">edit</a>
+<a href="/w/index.php?title=Allen_B._Tucker&amp;action=edit&amp;redlink=1" class="new" title="Allen B. Tucker (page does not exist)">Tucker, Allen B.</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-58488-360-9" title="Special:BookSources/978-1-58488-360-9"><bdi>978-1-58488-360-9</bdi></a>
+<a href="/wiki/Zentralblatt_MATH" title="Zentralblatt MATH">Zentralblatt MATH</a>
+<a href="/wiki/Jan_van_Leeuwen" title="Jan van Leeuwen">van Leeuwen, Jan</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-0-262-72020-5" title="Special:BookSources/978-0-262-72020-5"><bdi>978-0-262-72020-5</bdi></a>
+<a href="/wiki/SIGACT_News" class="mw-redirect" title="SIGACT News">SIGACT News</a>
+<a href="/wiki/Anthony_Ralston" title="Anthony Ralston">Ralston, Anthony</a>
+<a href="/w/index.php?title=Edwin_D._Reilly&amp;action=edit&amp;redlink=1" class="new" title="Edwin D. Reilly (page does not exist)">Reilly, Edwin D.</a>
+<a href="/w/index.php?title=David_Hemmendinger&amp;action=edit&amp;redlink=1" class="new" title="David Hemmendinger (page does not exist)">Hemmendinger, David</a>
+<a rel="nofollow" class="external text" href="http://portal.acm.org/ralston.cfm"><i>Encyclopedia of Computer Science</i></a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-56159-248-7" title="Special:BookSources/978-1-56159-248-7"><bdi>978-1-56159-248-7</bdi></a>
+<a rel="nofollow" class="external text" href="https://archive.org/details/milestonesincomp0000reil"><i>Milestones in Computer Science and Information Technology</i></a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-1-57356-521-9" title="Special:BookSources/978-1-57356-521-9"><bdi>978-1-57356-521-9</bdi></a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=34" title="Edit section: Selected literature">edit</a>
+<a href="/wiki/Donald_Knuth" title="Donald Knuth">Knuth, Donald E.</a>
+<a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>
+<a rel="nofollow" class="external text" href="http://robroy.dyndns.info/collier/index.html"><i>The little engine that could've: The calculating machines of Charles Babbage</i></a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-0-8240-0043-1" title="Special:BookSources/978-0-8240-0043-1"><bdi>978-0-8240-0043-1</bdi></a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-0-262-53179-5" title="Special:BookSources/978-0-262-53179-5"><bdi>978-0-262-53179-5</bdi></a>
+<a href="/wiki/Taylor_%26_Francis" title="Taylor &amp; Francis">Taylor &amp; Francis</a>
+<a href="/wiki/Brian_Randell" title="Brian Randell">Randell, Brian</a>
+<a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>
+<a href="/wiki/Special:BookSources/978-3-540-06169-4" title="Special:BookSources/978-3-540-06169-4"><bdi>978-3-540-06169-4</bdi></a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=35" title="Edit section: Articles">edit</a>
+<a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=1053309&amp;coll=&amp;dl=ACM&amp;CFID=15151515&amp;CFTOKEN=6184618">Is computer science science?</a>
+<a rel="nofollow" class="external text" href="http://portal.acm.org/citation.cfm?id=971303&amp;dl=ACM&amp;coll=&amp;CFID=15151515&amp;CFTOKEN=6184618">Great principles in computing curricula</a>
+<a rel="nofollow" class="external text" href="http://www.eqanie.eu/media/Como%20Conference/Tanca-Research_Assessment_A_new_Initiative_by_Informatics_Europe.pdf">report</a>
+<a href="/wiki/Communications_of_the_ACM" title="Communications of the ACM">Communications of the ACM</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=36" title="Edit section: Curriculum and classification">edit</a>
+<a href="/wiki/Association_for_Computing_Machinery" title="Association for Computing Machinery">Association for Computing Machinery</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20080828002940/http://www.acm.org/class/1998/overview.html">1998 ACM Computing Classification System</a>
+<a href="/wiki/Association_for_Information_Systems" title="Association for Information Systems">Association for Information Systems</a>
+<a href="/wiki/IEEE_Computer_Society" title="IEEE Computer Society">IEEE Computer Society</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141021153204/http://www.acm.org/education/curric_vols/CC2005-March06Final.pdf">Computing Curricula 2005: The Overview Report</a>
+<a href="/wiki/Norman_Gibbs" class="mw-redirect" title="Norman Gibbs">Norman Gibbs</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=37" title="Edit section: External links">edit</a>
+<a href="https://en.wikibooks.org/wiki/Informatics_Practices_for_Class_XI_(CBSE)" class="extiw" title="wikibooks:Informatics Practices for Class XI (CBSE)">Informatics Practices for Class XI (CBSE)</a>
+<a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects"><span id="sister-projects">sister projects</span></a>
+<a href="https://en.wiktionary.org/wiki/Special:Search/Computer_science" class="extiw" title="wikt:Special:Search/Computer science">Definitions</a>
+<a href="https://commons.wikimedia.org/wiki/Special:Search/Computer_science" class="extiw" title="c:Special:Search/Computer science">Media</a>
+<a href="https://en.wikinews.org/wiki/Special:Search/Computer_science" class="extiw" title="n:Special:Search/Computer science">News</a>
+<a href="https://en.wikiquote.org/wiki/Special:Search/Computer_science" class="extiw" title="q:Special:Search/Computer science">Quotations</a>
+<a href="https://en.wikisource.org/wiki/Special:Search/Computer_science" class="extiw" title="s:Special:Search/Computer science">Texts</a>
+<a href="https://en.wikibooks.org/wiki/Special:Search/Computer_science" class="extiw" title="b:Special:Search/Computer science">Textbooks</a>
+<a href="https://en.wikiversity.org/wiki/Special:Search/Computer_science" class="extiw" title="v:Special:Search/Computer science">Resources</a>
+<a href="/wiki/Wikipedia:The_Wikipedia_Library" title="Wikipedia:The Wikipedia Library">Library resources</a>
+<a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=Computer+science">Resources in your library</a>
+<a class="external text" href="//tools.wmflabs.org/ftl/cgi-bin/ftl?st=wp&amp;su=Computer+science&amp;library=0CHOOSE0">Resources in other libraries</a>
+<a rel="nofollow" class="external text" href="https://curlie.org/Computers/Computer_Science/">Computer science</a>
+<a href="/wiki/Curlie" class="mw-redirect" title="Curlie">Curlie</a>
+<a rel="nofollow" class="external text" href="http://www.lib.uwaterloo.ca/society/compsci_soc.html">Scholarly Societies in Computer Science</a>
+<a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=fjMU-km-Cso">What is Computer Science?</a>
+<a rel="nofollow" class="external text" href="http://jeffhuang.com/best_paper_awards.html">Best Papers Awards in Computer Science since 1996</a>
+<a rel="nofollow" class="external text" href="http://se.ethz.ch/~meyer/gallery/">Photographs of computer scientists</a>
+<a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a>
+<a rel="nofollow" class="external text" href="http://www.eecs.berkeley.edu/department/history.shtml">EECS.berkeley.edu</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=38" title="Edit section: Bibliography and academic search engines">edit</a>
+<a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/">CiteSeer<sup><i>x</i></sup></a>
+<a href="/wiki/CiteSeerX" title="CiteSeerX">article</a>
+<a rel="nofollow" class="external text" href="http://dblp.uni-trier.de/">DBLP Computer Science Bibliography</a>
+<a href="/wiki/Digital_Bibliography_%26_Library_Project" class="mw-redirect" title="Digital Bibliography &amp; Library Project">article</a>
+<a rel="nofollow" class="external text" href="http://liinwww.ira.uka.de/bibliography/">The Collection of Computer Science Bibliographies</a>
+<a href="/wiki/Collection_of_Computer_Science_Bibliographies" title="Collection of Computer Science Bibliographies">article</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=39" title="Edit section: Professional organizations">edit</a>
+<a rel="nofollow" class="external text" href="http://www.acm.org/">Association for Computing Machinery</a>
+<a rel="nofollow" class="external text" href="http://www.computer.org/">IEEE Computer Society</a>
+<a rel="nofollow" class="external text" href="http://www.informatics-europe.org/">Informatics Europe</a>
+<a rel="nofollow" class="external text" href="http://www.aaai.org/home.html">AAAI</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160205000119/http://membercentral.aaas.org/categories/computer-science">AAAS Computer Science</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit&amp;section=40" title="Edit section: Misc">edit</a>
+<a rel="nofollow" class="external text" href="https://cs.stackexchange.com/">Computer Science—Stack Exchange</a>
+<a rel="nofollow" class="external text" href="http://www.cs.bu.edu/AboutCS/WhatIsCS.pdf">What is computer science</a>
+<a rel="nofollow" class="external text" href="https://web.archive.org/web/20170810205524/https://www.cs.mtu.edu/~john/jenning.pdf">Is computer science science?</a>
+<a rel="nofollow" class="external text" href="https://www.researchgate.net/publication/306078165_Computer_Science_Software_Must_be_Considered_as_an_Independent_Discipline_Computer_Science_Software_must_not_be_Treated_as_a_Sub-Domain_or_Subset_of_Mathematics">Computer Science (Software) Must be Considered as an Independent Discipline.</a>
+<a href="/wiki/Template:Computer_science" title="Template:Computer science"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a>
+<a href="/wiki/Template_talk:Computer_science" title="Template talk:Computer science"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a>
+<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Computer_science&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a>
+<a href="/wiki/ACM_Computing_Classification_System" title="ACM Computing Classification System">ACM Computing Classification System</a>
+<a href="/wiki/Computer_hardware" title="Computer hardware">Hardware</a>
+<a href="/wiki/Printed_circuit_board" title="Printed circuit board">Printed circuit board</a>
+<a href="/wiki/Peripheral" title="Peripheral">Peripheral</a>
+<a href="/wiki/Integrated_circuit" title="Integrated circuit">Integrated circuit</a>
+<a href="/wiki/Very_Large_Scale_Integration" title="Very Large Scale Integration">Very Large Scale Integration</a>
+<a href="/wiki/System_on_a_chip" title="System on a chip">Systems on Chip (SoCs)</a>
+<a href="/wiki/Green_computing" title="Green computing">Energy consumption (Green computing)</a>
+<a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a>
+<a href="/wiki/Hardware_acceleration" title="Hardware acceleration">Hardware acceleration</a>
+<a href="/wiki/Computer_architecture" title="Computer architecture">Computer architecture</a>
+<a href="/wiki/Embedded_system" title="Embedded system">Embedded system</a>
+<a href="/wiki/Real-time_computing" title="Real-time computing">Real-time computing</a>
+<a href="/wiki/Dependability" title="Dependability">Dependability</a>
+<a href="/wiki/Computer_network" title="Computer network">Networks</a>
+<a href="/wiki/Network_architecture" title="Network architecture">Network architecture</a>
+<a href="/wiki/Network_protocol" class="mw-redirect" title="Network protocol">Network protocol</a>
+<a href="/wiki/Networking_hardware" title="Networking hardware">Network components</a>
+<a href="/wiki/Network_scheduler" title="Network scheduler">Network scheduler</a>
+<a href="/wiki/Network_performance" title="Network performance">Network performance evaluation</a>
+<a href="/wiki/Network_service" title="Network service">Network service</a>
+<a href="/wiki/Interpreter_(computing)" title="Interpreter (computing)">Interpreter</a>
+<a href="/wiki/Middleware" title="Middleware">Middleware</a>
+<a href="/wiki/Virtual_machine" title="Virtual machine">Virtual machine</a>
+<a href="/wiki/Operating_system" title="Operating system">Operating system</a>
+<a href="/wiki/Software_quality" title="Software quality">Software quality</a>
+<a href="/wiki/Programming_language_theory" title="Programming language theory">Software notations</a>
+<a href="/wiki/Programming_tool" title="Programming tool">tools</a>
+<a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a>
+<a href="/wiki/Programming_language" title="Programming language">Programming language</a>
+<a href="/wiki/Compiler_construction" class="mw-redirect" title="Compiler construction">Compiler</a>
+<a href="/wiki/Domain-specific_language" title="Domain-specific language">Domain-specific language</a>
+<a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a>
+<a href="/wiki/Software_framework" title="Software framework">Software framework</a>
+<a href="/wiki/Integrated_development_environment" title="Integrated development environment">Integrated development environment</a>
+<a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a>
+<a href="/wiki/Library_(computing)" title="Library (computing)">Software library</a>
+<a href="/wiki/Software_repository" title="Software repository">Software repository</a>
+<a href="/wiki/Software_development" title="Software development">Software development</a>
+<a href="/wiki/Software_development_process" title="Software development process">Software development process</a>
+<a href="/wiki/Requirements_analysis" title="Requirements analysis">Requirements analysis</a>
+<a href="/wiki/Software_design" title="Software design">Software design</a>
+<a href="/wiki/Software_construction" title="Software construction">Software construction</a>
+<a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a>
+<a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a>
+<a href="/wiki/Programming_team" title="Programming team">Programming team</a>
+<a href="/wiki/Open-source_software" title="Open-source software">Open-source model</a>
+<a href="/wiki/Theory_of_computation" title="Theory of computation">Theory of computation</a>
+<a href="/wiki/Model_of_computation" title="Model of computation">Model of computation</a>
+<a href="/wiki/Formal_language" title="Formal language">Formal language</a>
+<a href="/wiki/Automata_theory" title="Automata theory">Automata theory</a>
+<a href="/wiki/Computability_theory" title="Computability theory">Computability theory</a>
+<a href="/wiki/Computational_complexity_theory" title="Computational complexity theory">Computational complexity theory</a>
+<a href="/wiki/Logic_in_computer_science" title="Logic in computer science">Logic</a>
+<a href="/wiki/Semantics_(computer_science)" title="Semantics (computer science)">Semantics</a>
+<a href="/wiki/Algorithm" title="Algorithm">Algorithms</a>
+<a href="/wiki/Algorithm_design" class="mw-redirect" title="Algorithm design">Algorithm design</a>
+<a href="/wiki/Analysis_of_algorithms" title="Analysis of algorithms">Analysis of algorithms</a>
+<a href="/wiki/Algorithmic_efficiency" title="Algorithmic efficiency">Algorithmic efficiency</a>
+<a href="/wiki/Randomized_algorithm" title="Randomized algorithm">Randomized algorithm</a>
+<a href="/wiki/Computational_geometry" title="Computational geometry">Computational geometry</a>
+<a href="/wiki/Discrete_mathematics" title="Discrete mathematics">Discrete mathematics</a>
+<a href="/wiki/Probability" title="Probability">Probability</a>
+<a href="/wiki/Statistics" title="Statistics">Statistics</a>
+<a href="/wiki/Mathematical_software" title="Mathematical software">Mathematical software</a>
+<a href="/wiki/Information_theory" title="Information theory">Information theory</a>
+<a href="/wiki/Mathematical_analysis" title="Mathematical analysis">Mathematical analysis</a>
+<a href="/wiki/Numerical_analysis" title="Numerical analysis">Numerical analysis</a>
+<a href="/wiki/Information_system" title="Information system">Information<br>systems</a>
+<a href="/wiki/Database" title="Database">Database management system</a>
+<a href="/wiki/Computer_data_storage" title="Computer data storage">Information storage systems</a>
+<a href="/wiki/Enterprise_information_system" title="Enterprise information system">Enterprise information system</a>
+<a href="/wiki/Social_software" title="Social software">Social information systems</a>
+<a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system</a>
+<a href="/wiki/Decision_support_system" title="Decision support system">Decision support system</a>
+<a href="/wiki/Process_control" title="Process control">Process control system</a>
+<a href="/wiki/Multimedia_database" title="Multimedia database">Multimedia information system</a>
+<a href="/wiki/Data_mining" title="Data mining">Data mining</a>
+<a href="/wiki/Digital_library" title="Digital library">Digital library</a>
+<a href="/wiki/Computing_platform" title="Computing platform">Computing platform</a>
+<a href="/wiki/Digital_marketing" title="Digital marketing">Digital marketing</a>
+<a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>
+<a href="/wiki/Information_retrieval" title="Information retrieval">Information retrieval</a>
+<a href="/wiki/Computer_security" title="Computer security">Security</a>
+<a href="/wiki/Cryptography" title="Cryptography">Cryptography</a>
+<a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a>
+<a href="/wiki/Security_service_(telecommunication)" title="Security service (telecommunication)">Security services</a>
+<a href="/wiki/Intrusion_detection_system" title="Intrusion detection system">Intrusion detection system</a>
+<a href="/wiki/Computer_security_compromised_by_hardware_failure" title="Computer security compromised by hardware failure">Hardware security</a>
+<a href="/wiki/Network_security" title="Network security">Network security</a>
+<a href="/wiki/Information_security" title="Information security">Information security</a>
+<a href="/wiki/Application_security" title="Application security">Application security</a>
+<a href="/wiki/Human%E2%80%93computer_interaction" title="Human–computer interaction">Human–computer<br>interaction</a>
+<a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a>
+<a href="/wiki/Social_computing" title="Social computing">Social computing</a>
+<a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a>
+<a href="/wiki/Visualization_(graphics)" title="Visualization (graphics)">Visualization</a>
+<a href="/wiki/Computer_accessibility" title="Computer accessibility">Accessibility</a>
+<a href="/wiki/Concurrency_(computer_science)" title="Concurrency (computer science)">Concurrency</a>
+<a href="/wiki/Concurrent_computing" title="Concurrent computing">Concurrent computing</a>
+<a href="/wiki/Parallel_computing" title="Parallel computing">Parallel computing</a>
+<a href="/wiki/Distributed_computing" title="Distributed computing">Distributed computing</a>
+<a href="/wiki/Multithreading_(computer_architecture)" title="Multithreading (computer architecture)">Multithreading</a>
+<a href="/wiki/Multiprocessing" title="Multiprocessing">Multiprocessing</a>
+<a href="/wiki/Artificial_intelligence" title="Artificial intelligence">Artificial<br>intelligence</a>
+<a href="/wiki/Natural_language_processing" title="Natural language processing">Natural language processing</a>
+<a href="/wiki/Knowledge_representation_and_reasoning" title="Knowledge representation and reasoning">Knowledge representation and reasoning</a>
+<a href="/wiki/Computer_vision" title="Computer vision">Computer vision</a>
+<a href="/wiki/Automated_planning_and_scheduling" title="Automated planning and scheduling">Automated planning and scheduling</a>
+<a href="/wiki/Mathematical_optimization" title="Mathematical optimization">Search methodology</a>
+<a href="/wiki/Control_theory" title="Control theory">Control method</a>
+<a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Philosophy of artificial intelligence</a>
+<a href="/wiki/Distributed_artificial_intelligence" title="Distributed artificial intelligence">Distributed artificial intelligence</a>
+<a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a>
+<a href="/wiki/Supervised_learning" title="Supervised learning">Supervised learning</a>
+<a href="/wiki/Unsupervised_learning" title="Unsupervised learning">Unsupervised learning</a>
+<a href="/wiki/Reinforcement_learning" title="Reinforcement learning">Reinforcement learning</a>
+<a href="/wiki/Multi-task_learning" title="Multi-task learning">Multi-task learning</a>
+<a href="/wiki/Cross-validation_(statistics)" title="Cross-validation (statistics)">Cross-validation</a>
+<a href="/wiki/Computer_graphics" title="Computer graphics">Graphics</a>
+<a href="/wiki/Computer_animation" title="Computer animation">Animation</a>
+<a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">Rendering</a>
+<a href="/wiki/Photo_manipulation" title="Photo manipulation">Image manipulation</a>
+<a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">Graphics processing unit</a>
+<a href="/wiki/Mixed_reality" title="Mixed reality">Mixed reality</a>
+<a href="/wiki/Virtual_reality" title="Virtual reality">Virtual reality</a>
+<a href="/wiki/Image_compression" title="Image compression">Image compression</a>
+<a href="/wiki/Solid_modeling" title="Solid modeling">Solid modeling</a>
+<a href="/wiki/E-commerce" title="E-commerce">E-commerce</a>
+<a href="/wiki/Enterprise_software" title="Enterprise software">Enterprise software</a>
+<a href="/wiki/Computational_mathematics" title="Computational mathematics">Computational mathematics</a>
+<a href="/wiki/Computational_physics" title="Computational physics">Computational physics</a>
+<a href="/wiki/Computational_chemistry" title="Computational chemistry">Computational chemistry</a>
+<a href="/wiki/Computational_biology" title="Computational biology">Computational biology</a>
+<a href="/wiki/Computational_social_science" title="Computational social science">Computational social science</a>
+<a href="/wiki/Computational_engineering" title="Computational engineering">Computational engineering</a>
+<a href="/wiki/Health_informatics" title="Health informatics">Computational healthcare</a>
+<a href="/wiki/Digital_art" title="Digital art">Digital art</a>
+<a href="/wiki/Electronic_publishing" title="Electronic publishing">Electronic publishing</a>
+<a href="/wiki/Cyberwarfare" title="Cyberwarfare">Cyberwarfare</a>
+<a href="/wiki/Electronic_voting" title="Electronic voting">Electronic voting</a>
+<a href="/wiki/Video_game" title="Video game">Video games</a>
+<a href="/wiki/Word_processor" title="Word processor">Word processing</a>
+<a href="/wiki/Operations_research" title="Operations research">Operations research</a>
+<a href="/wiki/Educational_technology" title="Educational technology">Educational technology</a>
+<a href="/wiki/Document_management_system" title="Document management system">Document management</a>
+<a href="/wiki/Book:Computer_science" class="mw-redirect" title="Book:Computer science">Book</a>
+<a href="/wiki/Category:Computer_science" title="Category:Computer science">Category</a>
+<a href="/wiki/Outline_of_computer_science" title="Outline of computer science">Outline</a>
+<a href="/wiki/Wikipedia:WikiProject_Computer_science" title="Wikipedia:WikiProject Computer science">WikiProject</a>
+<a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Commons</a>
+<a href="/wiki/Template:Glossaries_of_science_and_engineering" title="Template:Glossaries of science and engineering"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a>
+<a href="/wiki/Template_talk:Glossaries_of_science_and_engineering" title="Template talk:Glossaries of science and engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a>
+<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Glossaries_of_science_and_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a>
+<a href="/wiki/Glossary_of_aerospace_engineering" title="Glossary of aerospace engineering">Aerospace engineering</a>
+<a href="/wiki/Glossary_of_agriculture" title="Glossary of agriculture">Agriculture</a>
+<a href="/wiki/Glossary_of_archaeology" title="Glossary of archaeology">Archaeology</a>
+<a href="/wiki/Glossary_of_architecture" title="Glossary of architecture">Architecture</a>
+<a href="/wiki/Glossary_of_artificial_intelligence" title="Glossary of artificial intelligence">Artificial intelligence</a>
+<a href="/wiki/Glossary_of_astronomy" title="Glossary of astronomy">Astronomy</a>
+<a href="/wiki/Glossary_of_biology" title="Glossary of biology">Biology</a>
+<a href="/wiki/Glossary_of_botany" class="mw-redirect" title="Glossary of botany">Botany</a>
+<a href="/wiki/Glossary_of_calculus" title="Glossary of calculus">Calculus</a>
+<a href="/wiki/Glossary_of_chemistry_terms" title="Glossary of chemistry terms">Chemistry</a>
+<a href="/wiki/Glossary_of_civil_engineering" title="Glossary of civil engineering">Civil engineering</a>
+<a href="/wiki/Glossary_of_clinical_research" title="Glossary of clinical research">Clinical research</a>
+<a href="/wiki/Glossary_of_computer_hardware_terms" title="Glossary of computer hardware terms">Computer hardware</a>
+<a href="/wiki/Glossary_of_computer_science" title="Glossary of computer science">Computer science</a>
+<a href="/wiki/Glossary_of_ecology" title="Glossary of ecology">Ecology</a>
+<a href="/wiki/Glossary_of_economics" title="Glossary of economics">Economics</a>
+<a href="/wiki/Glossary_of_electrical_and_electronics_engineering" title="Glossary of electrical and electronics engineering">Electrical and electronics engineering</a>
+<a href="/wiki/Glossary_of_engineering" title="Glossary of engineering">Engineering</a>
+<a href="/wiki/Glossary_of_entomology_terms" title="Glossary of entomology terms">Entomology</a>
+<a href="/wiki/Glossary_of_environmental_science" title="Glossary of environmental science">Environmental science</a>
+<a href="/wiki/Glossary_of_evolutionary_biology" title="Glossary of evolutionary biology">Evolutionary biology</a>
+<a href="/wiki/Glossary_of_genetics" title="Glossary of genetics">Genetics</a>
+<a href="/wiki/Glossary_of_geography_terms" title="Glossary of geography terms">Geography</a>
+<a href="/wiki/Glossary_of_geology" title="Glossary of geology">Geology</a>
+<a href="/wiki/Glossary_of_ichthyology" title="Glossary of ichthyology">Ichthyology</a>
+<a href="/wiki/Glossary_of_machine_vision" title="Glossary of machine vision">Machine vision</a>
+<a href="/wiki/Glossary_of_areas_of_mathematics" title="Glossary of areas of mathematics">Mathematics</a>
+<a href="/wiki/Glossary_of_mechanical_engineering" title="Glossary of mechanical engineering">Mechanical engineering</a>
+<a href="/wiki/Glossary_of_medicine" title="Glossary of medicine">Medicine</a>
+<a href="/wiki/Glossary_of_meteorology" title="Glossary of meteorology">Meteorology</a>
+<a href="/wiki/Glossary_of_nanotechnology" title="Glossary of nanotechnology">Nanotechnology</a>
+<a href="/wiki/Glossary_of_bird_terms" title="Glossary of bird terms">Ornithology</a>
+<a href="/wiki/Glossary_of_physics" title="Glossary of physics">Physics</a>
+<a href="/wiki/Glossary_of_probability_and_statistics" title="Glossary of probability and statistics">Probability and statistics</a>
+<a href="/wiki/Glossary_of_psychiatry" title="Glossary of psychiatry">Psychiatry</a>
+<a href="/wiki/Glossary_of_robotics" title="Glossary of robotics">Robotics</a>
+<a href="/wiki/Glossary_of_scientific_naming" title="Glossary of scientific naming">Scientific naming</a>
+<a href="/wiki/Glossary_of_structural_engineering" title="Glossary of structural engineering">Structural engineering</a>
+<a href="/wiki/Glossary_of_virology" title="Glossary of virology">Virology</a>
+<a href="/wiki/Template:Software_engineering" title="Template:Software engineering"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a>
+<a href="/wiki/Template_talk:Software_engineering" title="Template talk:Software engineering"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a>
+<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Software_engineering&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a>
+<a href="/wiki/Software_engineering" title="Software engineering">Software engineering</a>
+<a href="/wiki/Computer_programming" title="Computer programming">Computer programming</a>
+<a href="/wiki/Requirements_engineering" title="Requirements engineering">Requirements engineering</a>
+<a href="/wiki/Software_deployment" title="Software deployment">Software deployment</a>
+<a href="/wiki/Software_design" title="Software design">Software design</a>
+<a href="/wiki/Software_maintenance" title="Software maintenance">Software maintenance</a>
+<a href="/wiki/Software_testing" title="Software testing">Software testing</a>
+<a href="/wiki/Systems_analysis" title="Systems analysis">Systems analysis</a>
+<a href="/wiki/Formal_methods" title="Formal methods">Formal methods</a>
+<a href="/wiki/Data_modeling" title="Data modeling">Data modeling</a>
+<a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a>
+<a href="/wiki/Functional_specification" title="Functional specification">Functional specification</a>
+<a href="/wiki/Modeling_language" title="Modeling language">Modeling language</a>
+<a href="/wiki/Programming_paradigm" title="Programming paradigm">Programming paradigm</a>
+<a href="/wiki/Software" title="Software">Software</a>
+<a href="/wiki/Software_archaeology" title="Software archaeology">Software archaeology</a>
+<a href="/wiki/Software_architecture" title="Software architecture">Software architecture</a>
+<a href="/wiki/Software_configuration_management" title="Software configuration management">Software configuration management</a>
+<a href="/wiki/Software_development_process" title="Software development process">Software development methodology</a>
+<a href="/wiki/Software_development_process" title="Software development process">Software development process</a>
+<a href="/wiki/Software_quality" title="Software quality">Software quality</a>
+<a href="/wiki/Software_quality_assurance" title="Software quality assurance">Software quality assurance</a>
+<a href="/wiki/Software_verification_and_validation" title="Software verification and validation">Software verification and validation</a>
+<a href="/wiki/Structured_analysis" title="Structured analysis">Structured analysis</a>
+<a href="/wiki/Essential_Systems_Analysis" title="Essential Systems Analysis">Essential Analysis</a>
+<a href="/wiki/Agile_software_development" title="Agile software development">Agile</a>
+<a href="/wiki/Aspect-oriented_software_development" title="Aspect-oriented software development">Aspect-oriented</a>
+<a href="/wiki/Object-oriented_programming" title="Object-oriented programming">Object orientation</a>
+<a href="/wiki/Ontology_(information_science)" title="Ontology (information science)">Ontology</a>
+<a href="/wiki/Service-oriented_architecture" title="Service-oriented architecture">Service orientation</a>
+<a href="/wiki/Systems_development_life_cycle" title="Systems development life cycle">SDLC</a>
+<a href="/wiki/Agile_software_development" title="Agile software development">Agile</a>
+<a href="/wiki/Enterprise_Unified_Process" title="Enterprise Unified Process">EUP</a>
+<a href="/wiki/Executable_UML" title="Executable UML">Executable UML</a>
+<a href="/wiki/Incremental_build_model" title="Incremental build model">Incremental model</a>
+<a href="/wiki/Iterative_and_incremental_development" title="Iterative and incremental development">Iterative model</a>
+<a href="/wiki/Software_prototyping" title="Software prototyping">Prototype model</a>
+<a href="/wiki/Rapid_application_development" title="Rapid application development">RAD</a>
+<a href="/wiki/Unified_Process" title="Unified Process">UP</a>
+<a href="/wiki/Scrum_(software_development)" title="Scrum (software development)">Scrum</a>
+<a href="/wiki/Spiral_model" title="Spiral model">Spiral model</a>
+<a href="/wiki/V-Model_(software_development)" title="V-Model (software development)">V-Model</a>
+<a href="/wiki/Waterfall_model" title="Waterfall model">Waterfall model</a>
+<a href="/wiki/Extreme_programming" title="Extreme programming">XP</a>
+<a href="/wiki/ISO/IEC_15504" title="ISO/IEC 15504">SPICE</a>
+<a href="/wiki/Capability_Maturity_Model_Integration" title="Capability Maturity Model Integration">CMMI</a>
+<a href="/wiki/Data_model" title="Data model">Data model</a>
+<a href="/wiki/Entity%E2%80%93relationship_model" title="Entity–relationship model">ER model</a>
+<a href="/wiki/Function_model" title="Function model">Function model</a>
+<a href="/wiki/Information_model" title="Information model">Information model</a>
+<a href="/wiki/Metamodeling" title="Metamodeling">Metamodeling</a>
+<a href="/wiki/Object_model" title="Object model">Object model</a>
+<a href="/wiki/Systems_modeling" title="Systems modeling">Systems model</a>
+<a href="/wiki/View_model" title="View model">View model</a>
+<a href="/wiki/IDEF" title="IDEF">IDEF</a>
+<a href="/wiki/Unified_Modeling_Language" title="Unified Modeling Language">UML</a>
+<a href="/wiki/Universal_Systems_Language" title="Universal Systems Language">USL</a>
+<a href="/wiki/Systems_Modeling_Language" title="Systems Modeling Language">SysML</a>
+<a href="/wiki/Victor_Basili" title="Victor Basili">Victor Basili</a>
+<a href="/wiki/Kent_Beck" title="Kent Beck">Kent Beck</a>
+<a href="/wiki/Grady_Booch" title="Grady Booch">Grady Booch</a>
+<a href="/wiki/Fred_Brooks" title="Fred Brooks">Fred Brooks</a>
+<a href="/wiki/Barry_Boehm" title="Barry Boehm">Barry Boehm</a>
+<a href="/wiki/Peter_Chen" title="Peter Chen">Peter Chen</a>
+<a href="/wiki/Danese_Cooper" title="Danese Cooper">Danese Cooper</a>
+<a href="/wiki/Ward_Cunningham" title="Ward Cunningham">Ward Cunningham</a>
+<a href="/wiki/Tom_DeMarco" title="Tom DeMarco">Tom DeMarco</a>
+<a href="/wiki/Edsger_W._Dijkstra" title="Edsger W. Dijkstra">Edsger W. Dijkstra</a>
+<a href="/wiki/Delores_M._Etter" title="Delores M. Etter">Delores M. Etter</a>
+<a href="/wiki/Martin_Fowler_(software_engineer)" title="Martin Fowler (software engineer)">Martin Fowler</a>
+<a href="/wiki/Adele_Goldstine" title="Adele Goldstine">Adele Goldstine</a>
+<a href="/wiki/Margaret_Hamilton_(scientist)" class="mw-redirect" title="Margaret Hamilton (scientist)">Margaret Hamilton</a>
+<a href="/wiki/Tony_Hoare" title="Tony Hoare">C. A. R. Hoare</a>
+<a href="/wiki/Lois_Haibt" title="Lois Haibt">Lois Haibt</a>
+<a href="/wiki/Mary_Jean_Harrold" title="Mary Jean Harrold">Mary Jean Harrold</a>
+<a href="/wiki/Grace_Hopper" title="Grace Hopper">Grace Hopper</a>
+<a href="/wiki/Watts_Humphrey" title="Watts Humphrey">Watts Humphrey</a>
+<a href="/wiki/Michael_A._Jackson" title="Michael A. Jackson">Michael A. Jackson</a>
+<a href="/wiki/Ivar_Jacobson" title="Ivar Jacobson">Ivar Jacobson</a>
+<a href="/wiki/Alan_Kay" title="Alan Kay">Alan Kay</a>
+<a href="/wiki/Nancy_Leveson" title="Nancy Leveson">Nancy Leveson</a>
+<a href="/wiki/Stephen_J._Mellor" title="Stephen J. Mellor">Stephen J. Mellor</a>
+<a href="/wiki/Bertrand_Meyer" title="Bertrand Meyer">Bertrand Meyer</a>
+<a href="/wiki/David_Parnas" title="David Parnas">David Parnas</a>
+<a href="/wiki/Trygve_Reenskaug" title="Trygve Reenskaug">Trygve Reenskaug</a>
+<a href="/wiki/Winston_W._Royce" title="Winston W. Royce">Winston W. Royce</a>
+<a href="/wiki/James_Rumbaugh" title="James Rumbaugh">James Rumbaugh</a>
+<a href="/wiki/Mary_Shaw_(computer_scientist)" title="Mary Shaw (computer scientist)">Mary Shaw</a>
+<a href="/wiki/Peri_Tarr" title="Peri Tarr">Peri Tarr</a>
+<a href="/wiki/Elaine_Weyuker" title="Elaine Weyuker">Elaine Weyuker</a>
+<a href="/wiki/Niklaus_Wirth" title="Niklaus Wirth">Niklaus Wirth</a>
+<a href="/wiki/Edward_Yourdon" title="Edward Yourdon">Edward Yourdon</a>
+<a href="/wiki/Computer_engineering" title="Computer engineering">Computer engineering</a>
+<a href="/wiki/Project_management" title="Project management">Project management</a>
+<a href="/wiki/Risk_management" title="Risk management">Risk management</a>
+<a href="/wiki/Systems_engineering" title="Systems engineering">Systems engineering</a>
+<a href="/wiki/Category:Software_engineering" title="Category:Software engineering">Category</a>
+<a href="https://commons.wikimedia.org/wiki/Category:Software_engineering" class="extiw" title="commons:Category:Software engineering">Commons</a>
+<a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a>
+<a href="https://www.wikidata.org/wiki/Q21198" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20"></a>
+<a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>
+<a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX525961">XX525961</a>
+<a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>
+<a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11932109b">cb11932109b</a>
+<a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11932109b">(data)</a>
+<a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>
+<a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4026894-9">4026894-9</a>
+<a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>
+<a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/008272">008272</a>
+<a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>
+<a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/subjects/sh89003285">sh89003285</a>
+<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Computer_science&amp;oldid=948034893">https://en.wikipedia.org/w/index.php?title=Computer_science&amp;oldid=948034893</a>
+<a href="/wiki/Help:Category" title="Help:Category">Categories</a>
+<a href="/wiki/Category:Computer_science" title="Category:Computer science">Computer science</a>
+<a href="/wiki/Category:Formal_sciences" title="Category:Formal sciences">Formal sciences</a>
+<a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a>
+<a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a>
+<a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a>
+<a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a>
+<a href="/wiki/Category:Use_mdy_dates_from_October_2017" title="Category:Use mdy dates from October 2017">Use mdy dates from October 2017</a>
+<a href="/wiki/Category:Articles_to_be_expanded_from_September_2018" title="Category:Articles to be expanded from September 2018">Articles to be expanded from September 2018</a>
+<a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a>
+<a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2010" title="Category:Articles with unsourced statements from October 2010">Articles with unsourced statements from October 2010</a>
+<a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a>
+<a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a>
+<a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a>
+<a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a>
+<a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a>
+<a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a>
+<a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a>
+<a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a>
+<a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Computer+science" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a>
+<a href="/w/index.php?title=Special:UserLogin&amp;returnto=Computer+science" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a>
+<a href="/wiki/Computer_science" title="View the content page [c]" accesskey="c">Article</a>
+<a href="/wiki/Talk:Computer_science" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a>
+<a href="/wiki/Computer_science">Read</a>
+<a href="/w/index.php?title=Computer_science&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a>
+<a href="/w/index.php?title=Computer_science&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a>
+<a title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+<a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a>
+<a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a>
+<a href="/wiki/Wikipedia:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a>
+<a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a>
+<a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a>
+<a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a>
+<a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a>
+<a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a>
+<a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a>
+<a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a>
+<a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a>
+<a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a>
+<a href="/wiki/Special:WhatLinksHere/Computer_science" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a>
+<a href="/wiki/Special:RecentChangesLinked/Computer_science" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a>
+<a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a>
+<a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a>
+<a href="/w/index.php?title=Computer_science&amp;oldid=948034893" title="Permanent link to this revision of the page">Permanent link</a>
+<a href="/w/index.php?title=Computer_science&amp;action=info" title="More information about this page">Page information</a>
+<a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21198" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a>
+<a href="/w/index.php?title=Special:CiteThisPage&amp;page=Computer_science&amp;id=948034893&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a>
+<a href="https://commons.wikimedia.org/wiki/Category:Computer_science" hreflang="en">Wikimedia Commons</a>
+<a href="https://en.wikiquote.org/wiki/Computer_science" hreflang="en">Wikiquote</a>
+<a href="https://en.wikiversity.org/wiki/School:Computer_Science" hreflang="en">Wikiversity</a>
+<a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Computer+science">Create a book</a>
+<a href="/w/index.php?title=Special:ElectronPdf&amp;page=Computer+science&amp;action=show-download-screen">Download as PDF</a>
+<a href="/w/index.php?title=Computer_science&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a>
+<a href="https://af.wikipedia.org/wiki/Rekenaarwetenskap" title="Rekenaarwetenskap – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a>
+<a href="https://als.wikipedia.org/wiki/Informatik" title="Informatik – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a>
+<a href="https://am.wikipedia.org/wiki/%E1%8B%A8%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%8D%E1%89%B0%E1%88%AD%E1%8D%A1%E1%8C%A5%E1%8A%93%E1%89%B5" title="??????????? – Amharic" lang="am" hreflang="am" class="interlanguage-link-target">????</a>
+<a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D8%AD%D8%A7%D8%B3%D9%88%D8%A8" title="??? ??????? – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">???????</a>
+<a href="https://an.wikipedia.org/wiki/Informatica" title="Informatica – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a>
+<a href="https://roa-rup.wikipedia.org/wiki/Informatic%C4%83" title="Informatic? – Aromanian" lang="rup" hreflang="rup" class="interlanguage-link-target">Armãneashti</a>
+<a href="https://as.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A7%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" title="????????? ??????? – Assamese" lang="as" hreflang="as" class="interlanguage-link-target">???????</a>
+<a href="https://ast.wikipedia.org/wiki/Inform%C3%A1tica" title="Informática – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a>
+<a href="https://az.wikipedia.org/wiki/%C4%B0nformatika" title="?nformatika – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Az?rbaycanca</a>
+<a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%BE%E0%A6%A8" title="????????? ??????? – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">?????</a>
+<a href="https://zh-min-nan.wikipedia.org/wiki/Ti%C4%81n-n%C3%A1u_kho-ha%CC%8Dk" title="Ti?n-náu kho-ha?k – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a>
+<a href="https://ba.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">?????????</a>
+<a href="https://be.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0" title="??????????? – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">??????????</a>
+<a href="https://be-x-old.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%82%D1%8B%D0%BA%D0%B0" title="??????????? – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">?????????? (???????????)?</a>
+<a href="https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A4%82%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0_%E0%A4%AC%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="???????? ??????? – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">???????</a>
+<a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8E%D1%82%D1%8A%D1%80%D0%BD%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA%D0%B8" title="?????????? ????? – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">?????????</a>
+<a href="https://bar.wikipedia.org/wiki/Informatik" title="Informatik – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a>
+<a href="https://bs.wikipedia.org/wiki/Ra%C4%8Dunarska_nauka" title="Ra?unarska nauka – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a>
+<a href="https://br.wikipedia.org/wiki/Urzhiataerezh" title="Urzhiataerezh – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a>
+<a href="https://ca.wikipedia.org/wiki/Ci%C3%A8ncies_de_la_computaci%C3%B3" title="Ciències de la computació – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a>
+<a href="https://cs.wikipedia.org/wiki/Matematick%C3%A1_informatika" title="Matematická informatika – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">?eština</a>
+<a href="https://co.wikipedia.org/wiki/Informatica" title="Informatica – Corsican" lang="co" hreflang="co" class="interlanguage-link-target">Corsu</a>
+<a href="https://cy.wikipedia.org/wiki/Cyfrifiadureg" title="Cyfrifiadureg – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a>
+<a href="https://da.wikipedia.org/wiki/Datalogi" title="Datalogi – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a>
+<a href="https://de.wikipedia.org/wiki/Informatik" title="Informatik – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a>
+<a href="https://et.wikipedia.org/wiki/Informaatika" title="Informaatika – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a>
+<a href="https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CF%83%CF%84%CE%AE%CE%BC%CE%B7_%CF%85%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CF%8E%CE%BD" title="???????? ??????????? – Greek" lang="el" hreflang="el" class="interlanguage-link-target">????????</a>
+<a href="https://eml.wikipedia.org/wiki/Inform%C3%A0tica" title="Informàtica – Emiliano-Romagnolo" lang="egl" hreflang="egl" class="interlanguage-link-target">Emiliàn e rumagnòl</a>
+<a href="https://es.wikipedia.org/wiki/Ciencias_de_la_computaci%C3%B3n" title="Ciencias de la computación – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a>
+<a href="https://eo.wikipedia.org/wiki/Informadiko" title="Informadiko – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a>
+<a href="https://ext.wikipedia.org/wiki/Enhorm%C3%A1tica" title="Enhormática – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a>
+<a href="https://eu.wikipedia.org/wiki/Informatika" title="Informatika – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a>
+<a href="https://fa.wikipedia.org/wiki/%D8%B9%D9%84%D9%88%D9%85_%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87" title="???? ?????? – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">?????</a>
+<a href="https://fo.wikipedia.org/wiki/Teldufr%C3%B8%C3%B0i" title="Teldufrøði – Faroese" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a>
+<a href="https://fr.wikipedia.org/wiki/Informatique" title="Informatique – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a>
+<a href="https://fy.wikipedia.org/wiki/Ynformatika" title="Ynformatika – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a>
+<a href="https://fur.wikipedia.org/wiki/Informatiche" title="Informatiche – Friulian" lang="fur" hreflang="fur" class="interlanguage-link-target">Furlan</a>
+<a href="https://ga.wikipedia.org/wiki/R%C3%ADomheola%C3%ADocht" title="Ríomheolaíocht – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a>
+<a href="https://gv.wikipedia.org/wiki/Sheanse_co-earrooagh" title="Sheanse co-earrooagh – Manx" lang="gv" hreflang="gv" class="interlanguage-link-target">Gaelg</a>
+<a href="https://gl.wikipedia.org/wiki/Ciencias_da_computaci%C3%B3n" title="Ciencias da computación – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a>
+<a href="https://hak.wikipedia.org/wiki/Thien-n%C3%B3_Kh%C3%B4-ho%CC%8Dk" title="Thien-nó Khô-ho?k – Hakka Chinese" lang="hak" hreflang="hak" class="interlanguage-link-target">???/Hak-kâ-ngî</a>
+<a href="https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99" title="??? ?? – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">???</a>
+<a href="https://hy.wikipedia.org/wiki/%D4%BB%D5%B6%D6%86%D5%B8%D6%80%D5%B4%D5%A1%D5%BF%D5%AB%D5%AF%D5%A1" title="??????????? – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">???????</a>
+<a href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9F%E0%A4%B0_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="????????? ??????? – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">??????</a>
+<a href="https://hr.wikipedia.org/wiki/Ra%C4%8Dunarstvo" title="Ra?unarstvo – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a>
+<a href="https://io.wikipedia.org/wiki/Informatiko" title="Informatiko – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a>
+<a href="https://id.wikipedia.org/wiki/Ilmu_komputer" title="Ilmu komputer – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a>
+<a href="https://ia.wikipedia.org/wiki/Informatica" title="Informatica – Interlingua" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a>
+<a href="https://ie.wikipedia.org/wiki/Informatica" title="Informatica – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a>
+<a href="https://iu.wikipedia.org/wiki/%E1%91%90%E1%93%B4%E1%90%85%E1%92%AA%E1%96%83%E1%91%A6%E1%91%95%E1%90%85%E1%91%8E%E1%94%BE%E1%94%AA%E1%91%8E%E1%93%82%E1%92%83_%E1%90%8A%E1%90%85%E1%93%9A%E1%91%A6%E1%91%8E%E1%94%A9%E1%91%A6/tusaumaqattautijjutinik_aulattijiit" title="?????????????? ???????/tusaumaqattautijjutinik aulattijiit – Inuktitut" lang="iu" hreflang="iu" class="interlanguage-link-target">??????/inuktitut</a>
+<a href="https://is.wikipedia.org/wiki/T%C3%B6lvunarfr%C3%A6%C3%B0i" title="Tölvunarfræði – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a>
+<a href="https://it.wikipedia.org/wiki/Informatica" title="Informatica – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a>
+<a href="https://he.wikipedia.org/wiki/%D7%9E%D7%93%D7%A2%D7%99_%D7%94%D7%9E%D7%97%D7%A9%D7%91" title="???? ????? – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">?????</a>
+<a href="https://kl.wikipedia.org/wiki/Qarasaasialerinermik_ilisimatusarneq" title="Qarasaasialerinermik ilisimatusarneq – Kalaallisut" lang="kl" hreflang="kl" class="interlanguage-link-target">Kalaallisut</a>
+<a href="https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B2%A3%E0%B2%95_%E0%B2%B5%E0%B2%BF%E0%B2%9C%E0%B3%8D%E0%B2%9E%E0%B2%BE%E0%B2%A8" title="??? ??????? – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">?????</a>
+<a href="https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%9C%E1%83%A4%E1%83%9D%E1%83%A0%E1%83%9B%E1%83%90%E1%83%A2%E1%83%98%E1%83%99%E1%83%90" title="??????????? – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">???????</a>
+<a href="https://csb.wikipedia.org/wiki/Inf%C3%B2rmatika" title="Infòrmatika – Kashubian" lang="csb" hreflang="csb" class="interlanguage-link-target">Kaszëbsczi</a>
+<a href="https://kk.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">???????</a>
+<a href="https://sw.wikipedia.org/wiki/Sayansi_ya_tarakilishi" title="Sayansi ya tarakilishi – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a>
+<a href="https://ht.wikipedia.org/wiki/Enf%C3%B2matik" title="Enfòmatik – Haitian Creole" lang="ht" hreflang="ht" class="interlanguage-link-target">Kreyòl ayisyen</a>
+<a href="https://gcr.wikipedia.org/wiki/Lenf%C3%B2rmatik" title="Lenfòrmatik – Guianan Creole" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a>
+<a href="https://ku.wikipedia.org/wiki/Informat%C3%AEk" title="Informatîk – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a>
+<a href="https://lad.wikipedia.org/wiki/Informatika" title="Informatika – Ladino" lang="lad" hreflang="lad" class="interlanguage-link-target">Ladino</a>
+<a href="https://ltg.wikipedia.org/wiki/Datorzineiba" title="Datorzineiba – Latgalian" lang="ltg" hreflang="ltg" class="interlanguage-link-target">Latga?u</a>
+<a href="https://la.wikipedia.org/wiki/Informatica" title="Informatica – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a>
+<a href="https://lv.wikipedia.org/wiki/Datorzin%C4%81tne" title="Datorzin?tne – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a>
+<a href="https://lb.wikipedia.org/wiki/Informatik" title="Informatik – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a>
+<a href="https://lt.wikipedia.org/wiki/Informatika" title="Informatika – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvi?</a>
+<a href="https://lij.wikipedia.org/wiki/Informatica" title="Informatica – Ligurian" lang="lij" hreflang="lij" class="interlanguage-link-target">Ligure</a>
+<a href="https://jbo.wikipedia.org/wiki/samske" title="samske – Lojban" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a>
+<a href="https://lmo.wikipedia.org/wiki/Informatega" title="Informatega – Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a>
+<a href="https://hu.wikipedia.org/wiki/Sz%C3%A1m%C3%ADt%C3%A1studom%C3%A1ny" title="Számítástudomány – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a>
+<a href="https://mk.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">??????????</a>
+<a href="https://mg.wikipedia.org/wiki/Kajimirindra" title="Kajimirindra – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a>
+<a href="https://ml.wikipedia.org/wiki/%E0%B4%95%E0%B4%AE%E0%B5%8D%E0%B4%AA%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%BC_%E0%B4%B6%E0%B4%BE%E0%B4%B8%E0%B5%8D%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%82" title="??????????? ???????? – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">??????</a>
+<a href="https://arz.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1" title="??? ????????? – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target">????</a>
+<a href="https://ms.wikipedia.org/wiki/Sains_komputer" title="Sains komputer – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a>
+<a href="https://min.wikipedia.org/wiki/Ilmu_komputer" title="Ilmu komputer – Minangkabau" lang="min" hreflang="min" class="interlanguage-link-target">Minangkabau</a>
+<a href="https://mwl.wikipedia.org/wiki/Ci%C3%A9ncia_de_la_cumputa%C3%A7on" title="Ciéncia de la cumputaçon – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a>
+<a href="https://mn.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D1%8B%D0%BD_%D1%88%D0%B8%D0%BD%D0%B6%D0%BB%D1%8D%D1%85_%D1%83%D1%85%D0%B0%D0%B0%D0%BD" title="??????????? ??????? ????? – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">??????</a>
+<a href="https://my.wikipedia.org/wiki/%E1%80%80%E1%80%BD%E1%80%94%E1%80%BA%E1%80%95%E1%80%BB%E1%80%B0%E1%80%90%E1%80%AC%E1%80%9E%E1%80%AD%E1%80%95%E1%80%B9%E1%80%95%E1%80%B6%E1%80%95%E1%80%8A%E1%80%AC" title="?????????????????? – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">??????????</a>
+<a href="https://nl.wikipedia.org/wiki/Informatica" title="Informatica – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a>
+<a href="https://nds-nl.wikipedia.org/wiki/Infermatika" title="Infermatika – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a>
+<a href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%E0%A4%B0_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="????????? ??????? – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">??????</a>
+<a href="https://new.wikipedia.org/wiki/%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%E0%A4%B0_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="????????? ??????? – Newari" lang="new" hreflang="new" class="interlanguage-link-target">????? ????</a>
+<a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6" title="????? – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">???</a>
+<a href="https://nap.wikipedia.org/wiki/Nfurmateca" title="Nfurmateca – Neapolitan" lang="nap" hreflang="nap" class="interlanguage-link-target">Napulitano</a>
+<a href="https://ce.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8:%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="????????:??????????? – Chechen" lang="ce" hreflang="ce" class="interlanguage-link-target">???????</a>
+<a href="https://frr.wikipedia.org/wiki/Informaatik" title="Informaatik – Northern Frisian" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a>
+<a href="https://no.wikipedia.org/wiki/Informatikk" title="Informatikk – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a>
+<a href="https://nn.wikipedia.org/wiki/Informatikk" title="Informatikk – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a>
+<a href="https://nov.wikipedia.org/wiki/Komputal_sientie" title="Komputal sientie – Novial" lang="nov" hreflang="nov" class="interlanguage-link-target">Novial</a>
+<a href="https://oc.wikipedia.org/wiki/Informatica" title="Informatica – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a>
+<a href="https://mhr.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5" title="??????????? – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">???? ?????</a>
+<a href="https://or.wikipedia.org/wiki/%E0%AC%95%E0%AC%AE%E0%AD%8D%E0%AC%AA%E0%AD%8D%E0%AD%9F%E0%AD%81%E0%AC%9F%E0%AC%B0_%E0%AC%AC%E0%AC%BF%E0%AC%9C%E0%AD%8D%E0%AC%9E%E0%AC%BE%E0%AC%A8" title="????????? ??????? – Odia" lang="or" hreflang="or" class="interlanguage-link-target">?????</a>
+<a href="https://uz.wikipedia.org/wiki/Informatika" title="Informatika – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">O?zbekcha/???????</a>
+<a href="https://pi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%81%E0%A4%B6%E0%A4%BE%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF_%E0%A4%AF%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0_(%E0%A4%95%E0%A4%AE%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%AF%E0%A5%81%E0%A4%9F%E0%A4%B0)_%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8" title="???????? ?????? (?????????) ??????? – Pali" lang="pi" hreflang="pi" class="interlanguage-link-target">????</a>
+<a href="https://ps.wikipedia.org/wiki/%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%BC%D8%B1%D9%BE%D9%88%D9%87%D9%86%D9%87" title="???????????? – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target">????</a>
+<a href="https://km.wikipedia.org/wiki/%E1%9E%9C%E1%9E%B7%E1%9E%91%E1%9F%92%E1%9E%99%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%9F%E1%9F%92%E1%9E%8F%E1%9F%92%E1%9E%9A%E2%80%8B%E1%9E%80%E1%9E%BB%E1%9F%86%E1%9E%96%E1%9F%92%E1%9E%99%E1%9E%BC%E1%9E%91%E1%9F%90%E1%9E%9A" title="???????????????????????? – Khmer" lang="km" hreflang="km" class="interlanguage-link-target">?????????</a>
+<a href="https://pcd.wikipedia.org/wiki/Informatike" title="Informatike – Picard" lang="pcd" hreflang="pcd" class="interlanguage-link-target">Picard</a>
+<a href="https://pms.wikipedia.org/wiki/Anform%C3%A0tica" title="Anformàtica – Piedmontese" lang="pms" hreflang="pms" class="interlanguage-link-target">Piemontèis</a>
+<a href="https://tpi.wikipedia.org/wiki/Save_long_komputa" title="Save long komputa – Tok Pisin" lang="tpi" hreflang="tpi" class="interlanguage-link-target">Tok Pisin</a>
+<a href="https://pl.wikipedia.org/wiki/Informatyka" title="Informatyka – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a>
+<a href="https://pt.wikipedia.org/wiki/Ci%C3%AAncia_da_computa%C3%A7%C3%A3o" title="Ciência da computação – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a>
+<a href="https://kaa.wikipedia.org/wiki/Informatika" title="Informatika – Kara-Kalpak" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a>
+<a href="https://ro.wikipedia.org/wiki/Informatic%C4%83" title="Informatic? – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Român?</a>
+<a href="https://rue.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%96%D0%BA%D0%B0" title="??????????? – Rusyn" lang="rue" hreflang="rue" class="interlanguage-link-target">??????????</a>
+<a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">???????</a>
+<a href="https://sa.wikipedia.org/wiki/%E0%A4%B8%E0%A4%99%E0%A5%8D%E0%A4%97%E0%A4%A3%E0%A4%95%E0%A4%B5%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9E%E0%A4%BE%E0%A4%A8%E0%A4%AE%E0%A5%8D" title="??????????????? – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">?????????</a>
+<a href="https://sc.wikipedia.org/wiki/Inform%C3%A0tica" title="Informàtica – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a>
+<a href="https://sco.wikipedia.org/wiki/Computer_science" title="Computer science – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a>
+<a href="https://stq.wikipedia.org/wiki/Informoatik" title="Informoatik – Saterland Frisian" lang="stq" hreflang="stq" class="interlanguage-link-target">Seeltersk</a>
+<a href="https://sq.wikipedia.org/wiki/Shkenca_kompjuterike" title="Shkenca kompjuterike – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a>
+<a href="https://scn.wikipedia.org/wiki/Nfurm%C3%A0tica" title="Nfurmàtica – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a>
+<a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B6%9C%E0%B6%AB%E0%B6%9A_%E0%B7%80%E0%B7%92%E0%B6%AF%E0%B7%8A%E2%80%8D%E0%B6%BA%E0%B7%8F%E0%B7%80" title="?????? ???????? – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">?????</a>
+<a href="https://simple.wikipedia.org/wiki/Computer_science" title="Computer science – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a>
+<a href="https://sd.wikipedia.org/wiki/%DA%AA%D9%85%D9%BE%D9%8A%D9%88%D9%BD%D8%B1_%D8%B3%D8%A7%D8%A6%D9%86%D8%B3" title="??????? ????? – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">????</a>
+<a href="https://sk.wikipedia.org/wiki/Veda_o_po%C4%8D%C3%ADta%C4%8Doch" title="Veda o po?íta?och – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Sloven?ina</a>
+<a href="https://sl.wikipedia.org/wiki/Ra%C4%8Dunalni%C5%A1tvo" title="Ra?unalništvo – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenš?ina</a>
+<a href="https://ckb.wikipedia.org/wiki/%D8%B2%D8%A7%D9%86%D8%B3%D8%AA%DB%8C_%DA%A9%DB%86%D9%85%D9%BE%DB%8C%D9%88%D8%AA%DB%95%D8%B1" title="?????? ????????? – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">?????</a>
+<a href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">?????? / srpski</a>
+<a href="https://sh.wikipedia.org/wiki/Ra%C4%8Dunarstvo" title="Ra?unarstvo – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / ??????????????</a>
+<a href="https://su.wikipedia.org/wiki/%C3%89lmu_komputer" title="Élmu komputer – Sundanese" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a>
+<a href="https://fi.wikipedia.org/wiki/Tietojenk%C3%A4sittelytiede" title="Tietojenkäsittelytiede – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a>
+<a href="https://sv.wikipedia.org/wiki/Datavetenskap" title="Datavetenskap – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a>
+<a href="https://tl.wikipedia.org/wiki/Agham_pangkompyuter" title="Agham pangkompyuter – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a>
+<a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D" title="?????????? – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">?????</a>
+<a href="https://kab.wikipedia.org/wiki/Tasenselkimt" title="Tasenselkimt – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a>
+<a href="https://tt.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">???????/tatarça</a>
+<a href="https://te.wikipedia.org/wiki/%E0%B0%95%E0%B0%82%E0%B0%AA%E0%B1%8D%E0%B0%AF%E0%B1%82%E0%B0%9F%E0%B0%B0%E0%B1%81_%E0%B0%B6%E0%B0%BE%E0%B0%B8%E0%B1%8D%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%82" title="????????? ???????? – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">??????</a>
+<a href="https://tet.wikipedia.org/wiki/Definisaun_Sistema_Informasaun_Teknologia" title="Definisaun Sistema Informasaun Teknologia – Tetum" lang="tet" hreflang="tet" class="interlanguage-link-target">Tetun</a>
+<a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C" title="??????????????????? – Thai" lang="th" hreflang="th" class="interlanguage-link-target">???</a>
+<a href="https://ti.wikipedia.org/wiki/%E1%8A%AE%E1%88%9D%E1%8D%92%E1%8B%A9%E1%89%B0%E1%88%AD_%E1%88%B3%E1%8B%AD%E1%8A%95%E1%88%B5" title="?????? ???? – Tigrinya" lang="ti" hreflang="ti" class="interlanguage-link-target">????</a>
+<a href="https://tg.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Tajik" lang="tg" hreflang="tg" class="interlanguage-link-target">??????</a>
+<a href="https://tr.wikipedia.org/wiki/Bilgisayar_bilimi" title="Bilgisayar bilimi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a>
+<a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="??????????? – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">??????????</a>
+<a href="https://ur.wikipedia.org/wiki/%DA%A9%D9%85%D9%BE%DB%8C%D9%88%D9%B9%D8%B1_%D8%B3%D8%A7%D8%A6%D9%86%D8%B3" title="??????? ????? – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">????</a>
+<a href="https://ug.wikipedia.org/wiki/%D8%A8%DB%8C%D9%84%DA%AF%DB%8C%D8%B3%D8%A7%D9%8A%D8%A7%D8%B1_%D9%85%DB%88%DA%BE%DB%95%D9%86%D8%AF%DB%8C%D8%B3%D9%84%DB%8C%D8%BA%DB%8C" title="?????????? ???????????? – Uyghur" lang="ug" hreflang="ug" class="interlanguage-link-target">???????? / Uyghurche</a>
+<a href="https://vec.wikipedia.org/wiki/Informadega" title="Informadega – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a>
+<a href="https://vi.wikipedia.org/wiki/Khoa_h%E1%BB%8Dc_m%C3%A1y_t%C3%ADnh" title="Khoa h?c máy tính – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Ti?ng Vi?t</a>
+<a href="https://fiu-vro.wikipedia.org/wiki/Informaatiga" title="Informaatiga – Võro" lang="vro" hreflang="vro" class="interlanguage-link-target">Võro</a>
+<a href="https://wa.wikipedia.org/wiki/Inf%C3%B4rmatike" title="Infôrmatike – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a>
+<a href="https://war.wikipedia.org/wiki/Siyensya_han_komputasyon" title="Siyensya han komputasyon – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a>
+<a href="https://wo.wikipedia.org/wiki/Xam-xamu_nosukaay" title="Xam-xamu nosukaay – Wolof" lang="wo" hreflang="wo" class="interlanguage-link-target">Wolof</a>
+<a href="https://wuu.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="????? – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">??</a>
+<a href="https://yo.wikipedia.org/wiki/%C3%8Cfit%C3%B3nil%C3%A9t%C3%AD" title="Ìfitónilétí – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a>
+<a href="https://zh-yue.wikipedia.org/wiki/%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8" title="???? – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">??</a>
+<a href="https://diq.wikipedia.org/wiki/%C4%B0nformatik" title="?nformatik – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a>
+<a href="https://zea.wikipedia.org/wiki/Informaotica" title="Informaotica – Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target">Zeêuws</a>
+<a href="https://bat-smg.wikipedia.org/wiki/Infuormat%C4%97ka" title="Infuormat?ka – Samogitian" lang="sgs" hreflang="sgs" class="interlanguage-link-target">Žemait?ška</a>
+<a href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6" title="????? – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">??</a>
+<a href="https://www.wikidata.org/wiki/Special:EntityPage/Q21198#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a>
+<a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a>
+<a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>
+<a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a>
+<a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>
+<a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>
+<a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a>
+<a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a>
+<a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a>
+<a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a>
+<a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a>
+<a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a>
+<a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a>
+<a href="//en.m.wikipedia.org/w/index.php?title=Computer_science&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a>
+<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a>
+<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a>

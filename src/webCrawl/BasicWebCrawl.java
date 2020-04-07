@@ -5,7 +5,6 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.*;
 import java.nio.file.Files;
@@ -20,48 +19,75 @@ public class BasicWebCrawl {
     	writer.print("");
     	writer.close();
     	Path links = Paths.get("D:\\Ecudocs\\links.txt");
-        Elements start = getPageLinks("https://en.wikipedia.org/wiki/Computer_science", links, -1, 0);
-    	ArrayList<Elements> allElements = new ArrayList<Elements>();
-    	allElements.add(0, start);
-    	
-    	FileOutputStream fo = new FileOutputStream("elements.txt");
-    	   PrintWriter pw = new PrintWriter(fo);
+        Elements start = getPageLinks("https://en.wikipedia.org/wiki/Computer_science", links, -1, -2);
 
-    	   for (Element elem : start){
-    	       pw.println(elem);
-    	   }
-    	   pw.close();
-    	   try {
-			fo.close();
+    	FileOutputStream fo = new FileOutputStream("D:\\Ecudocs\\elements.txt");
+    	PrintWriter pw = new PrintWriter(fo);
+
+    	for (Element elem : start){
+    		String s = elem.attr("href");
+    		if(s.charAt(0) == '/') {
+    			if(s.charAt(1) == 'w' && s.charAt(2) == 'i') {
+    				s = "https://en.wikipedia.org" + s;
+    				if(checkURL(s, links)) {
+    	    			pw.println(s + " " + -1);
+    	    		}
+    			}
+    		}
+    	}
+    	
+    	try {
+    		FileInputStream in = new FileInputStream("D:\\Ecudocs\\elements.txt");
+    		Scanner fileRead = new Scanner(in);
+    		String nextLink;
+    	
+    		int originDoc = 0;
+    		int count = 0;
+    		while(fileRead.hasNext()) {
+    			nextLink = fileRead.next();
+    			originDoc = fileRead.nextInt();
+    			Elements temp = getPageLinks(nextLink, links, count, originDoc);
+    			
+    					if(!temp.isEmpty()) {
+    						count++;
+
+    						for (Element elem : temp){
+    							String s = elem.attr("href");
+    							if(s.charAt(0) == '/') {
+    				    			   if(s.charAt(1) == 'w' && s.charAt(2) == 'i') {
+    				    				   s = "https://en.wikipedia.org" + s;
+    				    				   if(checkURL(s, links)) {
+    	    				    			   pw.println(s + " " + count);
+    	    				    		   }
+    				    			   }
+    				    		   }
+    						}
+    					}
+    			
+    		}
+    		fileRead.close();
+			in.close();
+    	}catch (IOException e){
+    		
+    	}
+    	
+ 	   try {
+ 		  pw.close();
+ 		  fo.close();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
-    	int count = 1;
-    	int i = 0;
-    	while(!allElements.isEmpty()) {
-    		for (Element page : allElements.get(0)) {
-    			Elements temp = getPageLinks(page.attr("abs:href"), links, i, count);
-    			if(!temp.isEmpty()) {
-    				allElements.add(count - i, temp);
-            		count++;
-    			}
-        	}
-    		i++;
-    		allElements.remove(0);
-    	}
-        
+    	
+    	
     }
 	
-	public static Elements getPageLinks(String URL, Path links, int num, int count) throws FileNotFoundException {
+	public static Elements getPageLinks(String URL, Path links, int count, int doc) throws FileNotFoundException {
 		
 		if(checkURL(URL, links)) {
 			try {
 				Files.write(links, URL.getBytes(), StandardOpenOption.APPEND);
 				Files.write(links, "\n".getBytes(), StandardOpenOption.APPEND);
-				System.out.println(num+1);
-				System.out.println(URL + "   " + count);
+				System.out.println(URL + "   " + count + "   " + doc);
 				//2. Fetch the HTML code
 				Document document = Jsoup.connect(URL).get();
 				//3. Parse the HTML to extract links to other URLs
@@ -77,8 +103,11 @@ public class BasicWebCrawl {
 	
 	public static boolean checkURL(String URL, Path links) throws FileNotFoundException {
 		
-		if(URL.contains("https://en.wikipedia.org/wiki/") 
-				&& ((notBadURL(URL)) || (URL.equals("https://en.wikipedia.org/wiki/History_of_computer_science")|| URL.equals("https://en.wikipedia.org/wiki/BBC_Model_B")) && (!URL.equals("https://en.wikipedia.org/wiki/Apple") ))) {
+		if((URL.contains("https://en.wikipedia.org/wiki/")) && 
+				((notBadURL(URL)) || 
+				(URL.equals("https://en.wikipedia.org/wiki/History_of_computer_science") || 
+				URL.equals("https://en.wikipedia.org/wiki/BBC_Model_B")) && 
+			(!URL.equals("https://en.wikipedia.org/wiki/Apple")))) {
 			try{
 				InputStream in = Files.newInputStream(links);
 				Scanner reader = new Scanner(in, "UTF-8");
@@ -93,7 +122,7 @@ public class BasicWebCrawl {
 					    reader.close();
 					    in.close();
 			} catch (IOException e) {
-				
+				e.printStackTrace();
 			}
 			return true;
 		}else {

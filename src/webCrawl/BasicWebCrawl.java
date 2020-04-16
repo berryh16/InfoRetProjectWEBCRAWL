@@ -71,19 +71,28 @@ public class BasicWebCrawl {
     		
     	}
     	
- 	   try {
+ 	   try { 
  		  pw.close();
- 		  fo.close();
+ 		  fo.close(); 
+ 		  
+ 		  
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-    	
+ 	   	try {
+			Files.write(links, ("https://en.wikipedia.org/wiki/Alan_Turing").getBytes(), StandardOpenOption.APPEND);
+			Files.write(links, "\n".getBytes(), StandardOpenOption.APPEND);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
     	
     }
 	
 	public static Elements getPageLinks(String URL, Path links, int count, int doc) throws FileNotFoundException {
 		
-		if(checkURL(URL, links)) {
+		if(dup(URL, links)) {
 			try {
 				Files.write(links, URL.getBytes(), StandardOpenOption.APPEND);
 				Files.write(links, "\n".getBytes(), StandardOpenOption.APPEND);
@@ -105,29 +114,32 @@ public class BasicWebCrawl {
 		
 		if((URL.contains("https://en.wikipedia.org/wiki/")) && 
 				((notBadURL(URL)) || 
-				(URL.equals("https://en.wikipedia.org/wiki/History_of_computer_science") || 
-				URL.equals("https://en.wikipedia.org/wiki/BBC_Model_B")) && 
-			(!URL.equals("https://en.wikipedia.org/wiki/Apple")))) {
-			try{
-				InputStream in = Files.newInputStream(links);
-				Scanner reader = new Scanner(in, "UTF-8");
-					    while (reader.hasNextLine()) {
-					    	String line = reader.nextLine();
-					        if (URL.equals(line)) {
-					        	reader.close();
-					        	in.close();
-					        	return false;
-					        }
-					    }
-					    reader.close();
-					    in.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
+				(URL.equals("https://en.wikipedia.org/wiki/BBC_Model_B")) && 
+			(!URL.equals("https://en.wikipedia.org/wiki/Apple"))) && !URL.equals("https://en.wikipedia.org/wiki/Code")) {
 			return true;
 		}else {
 			return false;
 		}
+	}
+	
+	public static boolean dup(String URL, Path links) throws FileNotFoundException {
+		try{
+			InputStream in = Files.newInputStream(links);
+			Scanner reader = new Scanner(in, "UTF-8");
+				    while (reader.hasNextLine()) {
+				    	String line = reader.nextLine();
+				        if (URL.equals(line)) {
+				        	reader.close();
+				        	in.close();
+				        	return false;
+				        }
+				    }
+				    reader.close();
+				    in.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return true;
 	}
 	
 	public static boolean notBadURL(String URL) throws FileNotFoundException {
